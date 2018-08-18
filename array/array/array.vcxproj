@@ -77,6 +77,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="RemoveDuplicatesfromSortedArray.cpp" />
+    <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="twoSum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
