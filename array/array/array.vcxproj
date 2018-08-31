@@ -76,7 +76,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3Sum.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
+    <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp" />
     <ClCompile Include="RemoveDuplicatesfromSortedArray.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="twoSum.cpp" />
