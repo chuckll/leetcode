@@ -79,8 +79,11 @@
     <ClCompile Include="3Sum.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp" />
+    <ClCompile Include="InsertionSortList.cpp" />
+    <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="RemoveDuplicatesfromSortedArray.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
+    <ClCompile Include="SortColors.cpp" />
     <ClCompile Include="twoSum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
