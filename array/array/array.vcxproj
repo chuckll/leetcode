@@ -79,12 +79,19 @@
     <ClCompile Include="3Sum.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp" />
+    <ClCompile Include="findTheDifference.cpp" />
     <ClCompile Include="InsertionSortList.cpp" />
+    <ClCompile Include="islandPerimeter.cpp" />
+    <ClCompile Include="JewelsandStones.cpp" />
+    <ClCompile Include="KeyboardRow.cpp" />
+    <ClCompile Include="LongestWordinDictionarythroughDeleting.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
     <ClCompile Include="RemoveDuplicatesfromSortedArray.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
+    <ClCompile Include="SingleNumber.cpp" />
     <ClCompile Include="SortColors.cpp" />
     <ClCompile Include="twoSum.cpp" />
+    <ClCompile Include="ValidAnagram.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
