@@ -86,6 +86,7 @@
     <ClCompile Include="KeyboardRow.cpp" />
     <ClCompile Include="LongestWordinDictionarythroughDeleting.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
+    <ClCompile Include="MyHashSet.cpp" />
     <ClCompile Include="RemoveDuplicatesfromSortedArray.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="SingleNumber.cpp" />

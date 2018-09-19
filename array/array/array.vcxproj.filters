@@ -63,5 +63,8 @@
     <ClCompile Include="findTheDifference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MyHashSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
