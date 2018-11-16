@@ -77,6 +77,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3Sum.cpp" />
+    <ClCompile Include="BinaryTreeInorderTraversal.cpp" />
+    <ClCompile Include="BinaryTreePostorderTraversal.cpp" />
     <ClCompile Include="BinaryTreePruning.cpp" />
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp" />
@@ -91,6 +93,7 @@
     <ClCompile Include="MaximumDepthofBinaryTree.cpp" />
     <ClCompile Include="MaxIncreasetoKeepCitySkyline.cpp" />
     <ClCompile Include="MergeIntervals.cpp" />
+    <ClCompile Include="MergeTwoBinaryTrees.cpp" />
     <ClCompile Include="MyHashSet.cpp" />
     <ClCompile Include="RemoveDuplicatesfromSortedArray.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
