@@ -15,85 +15,91 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="twoSum.cpp">
+    <ClCompile Include="15-3Sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RemoveDuplicatesfromSortedArray.cpp">
+    <ClCompile Include="590-N-aryTreePostorderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RemoveElement.cpp">
+    <ClCompile Include="11-ContainerWithMostWater.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ContainerWithMostWater.cpp">
+    <ClCompile Include="1-twoSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FindFirstandLastPositionofElementinSortedArray.cpp">
+    <ClCompile Include="26-RemoveDuplicatesfromSortedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3Sum.cpp">
+    <ClCompile Include="27-RemoveElement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MergeIntervals.cpp">
+    <ClCompile Include="34-FindFirstandLastPositionofElementinSortedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SortColors.cpp">
+    <ClCompile Include="56-MergeIntervals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="InsertionSortList.cpp">
+    <ClCompile Include="75-SortColors.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ValidAnagram.cpp">
+    <ClCompile Include="94-BinaryTreeInorderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LongestWordinDictionarythroughDeleting.cpp">
+    <ClCompile Include="104-MaximumDepthofBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="JewelsandStones.cpp">
+    <ClCompile Include="136-SingleNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="KeyboardRow.cpp">
+    <ClCompile Include="145-BinaryTreePostorderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SingleNumber.cpp">
+    <ClCompile Include="147-InsertionSortList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="islandPerimeter.cpp">
+    <ClCompile Include="226-InvertBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="findTheDifference.cpp">
+    <ClCompile Include="389-findTheDifference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MyHashSet.cpp">
+    <ClCompile Include="412-FizzBuzz.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FizzBuzz.cpp">
+    <ClCompile Include="463-islandPerimeter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MaxIncreasetoKeepCitySkyline.cpp">
+    <ClCompile Include="500-KeyboardRow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ToLowerCase.cpp">
+    <ClCompile Include="524-LongestWordinDictionarythroughDeleting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MaximumBinaryTree.cpp">
+    <ClCompile Include="771-JewelsandStones.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MaximumDepthofBinaryTree.cpp">
+    <ClCompile Include="814-BinaryTreePruning.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="InvertBinaryTree.cpp">
+    <ClCompile Include="654-MaximumBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BinaryTreePruning.cpp">
+    <ClCompile Include="807-MaxIncreasetoKeepCitySkyline.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MergeTwoBinaryTrees.cpp">
+    <ClCompile Include="617-MergeTwoBinaryTrees.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BinaryTreeInorderTraversal.cpp">
+    <ClCompile Include="705-MyHashSet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BinaryTreePostorderTraversal.cpp">
+    <ClCompile Include="709-ToLowerCase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="242-ValidAnagram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="589-N-aryTreePreorderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
