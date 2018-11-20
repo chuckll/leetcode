@@ -102,5 +102,14 @@
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="559-MaximumDepthofN-aryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="230-KthSmallestElementinaBST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="513-FindBottomLeftTreeValue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

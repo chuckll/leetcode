@@ -77,6 +77,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="15-3Sum.cpp" />
+    <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
+    <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
+    <ClCompile Include="559-MaximumDepthofN-aryTree.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="94-BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="145-BinaryTreePostorderTraversal.cpp" />
