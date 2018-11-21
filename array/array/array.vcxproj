@@ -76,11 +76,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="108-ConvertSortedArraytoBinarySearchTree.cpp" />
     <ClCompile Include="15-3Sum.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
     <ClCompile Include="559-MaximumDepthofN-aryTree.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
+    <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="94-BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="145-BinaryTreePostorderTraversal.cpp" />
     <ClCompile Include="814-BinaryTreePruning.cpp" />

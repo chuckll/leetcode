@@ -111,5 +111,11 @@
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="108-ConvertSortedArraytoBinarySearchTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="700-SearchinaBinarySearchTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
