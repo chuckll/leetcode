@@ -117,5 +117,11 @@
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="107-BinaryTreeLevelOrderTraversalII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
