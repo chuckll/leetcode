@@ -144,5 +144,8 @@
     <ClCompile Include="114-FlattenBinaryTreetoLinked List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="872-Leaf-SimilarTrees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
