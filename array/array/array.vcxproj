@@ -76,10 +76,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="105-ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
     <ClCompile Include="106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp" />
     <ClCompile Include="107-BinaryTreeLevelOrderTraversalII.cpp" />
     <ClCompile Include="108-ConvertSortedArraytoBinarySearchTree.cpp" />
     <ClCompile Include="114-FlattenBinaryTreetoLinked List.cpp" />
+    <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
     <ClCompile Include="15-3Sum.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
