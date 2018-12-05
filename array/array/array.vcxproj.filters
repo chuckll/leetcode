@@ -159,5 +159,11 @@
     <ClCompile Include="547-FriendCircles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="684- Redundant-Connection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="129-SumRoottoLeafNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

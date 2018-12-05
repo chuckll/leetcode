@@ -81,6 +81,7 @@
     <ClCompile Include="107-BinaryTreeLevelOrderTraversalII.cpp" />
     <ClCompile Include="108-ConvertSortedArraytoBinarySearchTree.cpp" />
     <ClCompile Include="114-FlattenBinaryTreetoLinked List.cpp" />
+    <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
     <ClCompile Include="15-3Sum.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
@@ -92,6 +93,7 @@
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
+    <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
