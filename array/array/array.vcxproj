@@ -126,6 +126,7 @@
     <ClCompile Include="1-twoSum.cpp" />
     <ClCompile Include="242-ValidAnagram.cpp" />
     <ClCompile Include="515-FindLargestValueinEachTreeRow.cpp" />
+    <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

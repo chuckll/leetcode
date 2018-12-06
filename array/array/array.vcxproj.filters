@@ -165,5 +165,8 @@
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="96-UniqueBinarySearchTrees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

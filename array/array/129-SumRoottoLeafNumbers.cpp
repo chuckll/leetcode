@@ -12,10 +12,10 @@ using namespace std;
 
 class Solution {
 public:
+	vector<vector<int>> result;
     int sumNumbers(TreeNode* root) {
-        vector<vector<int>> result;
 		vector<int> f;
-		result.push_back(RoofToLeaf(root,f));
+		RoofToLeaf(root,f);
 		int sum = 0;
 
 		for(int i = 0 ; i < result.size(); i++)
@@ -30,15 +30,21 @@ public:
 		return sum;
     }
 
-    vector<int> RoofToLeaf(TreeNode* root, vector<int>& value)
+    void RoofToLeaf(TreeNode* root, vector<int> value)
 	{
 		if(root == NULL)
-			return value;
+        {
+            return;
+        }
 		value.push_back(root->val);
-		if(root->left != NULL)
-			RoofToLeaf(root->left,value);
-	    if(root->right != NULL)
-			RoofToLeaf(root->right,value);
-        return value;
+        if(root->left != NULL)
+           RoofToLeaf(root->left,value);
+        if(root->right != NULL)
+	       RoofToLeaf(root->right,value);
+        if(root->left == NULL && root->right == NULL)
+        {
+           result.push_back(value);
+            return;
+        }
 	}
 };
