@@ -168,5 +168,11 @@
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="215-KthLargestElementinanArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="451-SortCharactersByFrequency.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

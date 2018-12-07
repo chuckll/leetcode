@@ -1,67 +1,29 @@
-﻿Build started 2018/11/30 20:14:41.
+﻿Build started 2018/12/7 20:56:54.
      1>Project "E:\leetcode\array\array\array.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "105-ConstructBinaryTreefromPreorderandInorderTraversal.cpp" "106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp" "107-BinaryTreeLevelOrderTraversalII.cpp" "108-ConvertSortedArraytoBinarySearchTree.cpp" "114-FlattenBinaryTreetoLinked List.cpp" "144-BinaryTreePreorderTraversal.cpp" "15-3Sum.cpp" "230-KthSmallestElementinaBST.cpp" "257-BinaryTreePaths.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "513-FindBottomLeftTreeValue.cpp" "559-MaximumDepthofN-aryTree.cpp" "589-N-aryTreePreorderTraversal.cpp" "637-AverageofLevelsinBinaryTree.cpp" "669-TrimaBinarySearchTree.cpp" "700-SearchinaBinarySearchTree.cpp" "701-InsertintoaBinarySearchTree.cpp" "872-Leaf-SimilarTrees.cpp" "894-AllPossibleFullBinaryTrees.cpp" "94-BinaryTreeInorderTraversal.cpp" "145-BinaryTreePostorderTraversal.cpp" "814-BinaryTreePruning.cpp" "11-ContainerWithMostWater.cpp" "34-FindFirstandLastPositionofElementinSortedArray.cpp" "389-findTheDifference.cpp" "412-FizzBuzz.cpp" "147-InsertionSortList.cpp" "226-InvertBinaryTree.cpp" "463-islandPerimeter.cpp" "771-JewelsandStones.cpp" "500-KeyboardRow.cpp" "524-LongestWordinDictionarythroughDeleting.cpp" "104-MaximumDepthofBinaryTree.cpp" "807-MaxIncreasetoKeepCitySkyline.cpp" "56-MergeIntervals.cpp" "617-MergeTwoBinaryTrees.cpp" "705-MyHashSet.cpp" "590-N-aryTreePostorderTraversal.cpp" "26-RemoveDuplicatesfromSortedArray.cpp" "27-RemoveElement.cpp" "136-SingleNumber.cpp" "75-SortColors.cpp" "654-MaximumBinaryTree.cpp" "709-ToLowerCase.cpp" "1-twoSum.cpp" "242-ValidAnagram.cpp" Source.cpp
-         Source.cpp
-     1>e:\leetcode\array\array\source.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
-         242-ValidAnagram.cpp
-         1-twoSum.cpp
-         709-ToLowerCase.cpp
-         654-MaximumBinaryTree.cpp
-         75-SortColors.cpp
-         136-SingleNumber.cpp
-         27-RemoveElement.cpp
-         26-RemoveDuplicatesfromSortedArray.cpp
-         590-N-aryTreePostorderTraversal.cpp
-         705-MyHashSet.cpp
-         617-MergeTwoBinaryTrees.cpp
-         56-MergeIntervals.cpp
-         807-MaxIncreasetoKeepCitySkyline.cpp
-         104-MaximumDepthofBinaryTree.cpp
-         524-LongestWordinDictionarythroughDeleting.cpp
-         500-KeyboardRow.cpp
-         771-JewelsandStones.cpp
-         463-islandPerimeter.cpp
-         226-InvertBinaryTree.cpp
-         Generating Code...
-         Compiling...
-         147-InsertionSortList.cpp
-         412-FizzBuzz.cpp
-         389-findTheDifference.cpp
-         34-FindFirstandLastPositionofElementinSortedArray.cpp
-         11-ContainerWithMostWater.cpp
-         814-BinaryTreePruning.cpp
-         145-BinaryTreePostorderTraversal.cpp
-         94-BinaryTreeInorderTraversal.cpp
-         894-AllPossibleFullBinaryTrees.cpp
-     1>e:\leetcode\array\array\894-allpossiblefullbinarytrees.cpp(32): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\894-allpossiblefullbinarytrees.cpp(33): warning C4018: '<' : signed/unsigned mismatch
-         872-Leaf-SimilarTrees.cpp
-         701-InsertintoaBinarySearchTree.cpp
-         700-SearchinaBinarySearchTree.cpp
-         669-TrimaBinarySearchTree.cpp
-         637-AverageofLevelsinBinaryTree.cpp
-         589-N-aryTreePreorderTraversal.cpp
-         559-MaximumDepthofN-aryTree.cpp
-         513-FindBottomLeftTreeValue.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "129-SumRoottoLeafNumbers.cpp" "215-KthLargestElementinanArray.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "451-SortCharactersByFrequency.cpp" "547-FriendCircles.cpp" "684- Redundant-Connection.cpp" "515-FindLargestValueinEachTreeRow.cpp" "96-UniqueBinarySearchTrees.cpp"
+         96-UniqueBinarySearchTrees.cpp
+         515-FindLargestValueinEachTreeRow.cpp
+         684- Redundant-Connection.cpp
+     1>e:\leetcode\array\array\684- redundant-connection.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+         547-FriendCircles.cpp
+     1>e:\leetcode\array\array\547-friendcircles.cpp(9): error C2864: 'Solution::N' : only static const integral data members can be initialized within a class
+     1>e:\leetcode\array\array\547-friendcircles.cpp(10): error C2327: 'Solution::N' : is not a type name, static, or enumerator
+     1>e:\leetcode\array\array\547-friendcircles.cpp(10): error C2065: 'N' : undeclared identifier
+     1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2327: 'Solution::N' : is not a type name, static, or enumerator
+     1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2065: 'N' : undeclared identifier
+         451-SortCharactersByFrequency.cpp
+     1>e:\leetcode\array\array\451-sortcharactersbyfrequency.cpp(14): warning C4018: '<' : signed/unsigned mismatch
          429-N-aryTreeLevelOrderTraversal.cpp
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(8): error C2864: 'Node::val' : only static const integral data members can be initialized within a class
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(38): warning C4018: '<' : signed/unsigned mismatch
-         257-BinaryTreePaths.cpp
-         230-KthSmallestElementinaBST.cpp
-         Generating Code...
-         Compiling...
-         15-3Sum.cpp
-         144-BinaryTreePreorderTraversal.cpp
-         114-FlattenBinaryTreetoLinked List.cpp
-         108-ConvertSortedArraytoBinarySearchTree.cpp
-         107-BinaryTreeLevelOrderTraversalII.cpp
-         106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp
-         105-ConstructBinaryTreefromPreorderandInorderTraversal.cpp
+         215-KthLargestElementinanArray.cpp
+         129-SumRoottoLeafNumbers.cpp
+     1>e:\leetcode\array\array\129-sumroottoleafnumbers.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\129-sumroottoleafnumbers.cpp(26): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
          Generating Code...
      1>Done Building Project "E:\leetcode\array\array\array.vcxproj" (Build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:07.67
+Time Elapsed 00:00:04.22
