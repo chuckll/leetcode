@@ -174,5 +174,11 @@
     <ClCompile Include="451-SortCharactersByFrequency.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="347-TopKFrequentElements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="199-BinaryTreeRightSideView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
