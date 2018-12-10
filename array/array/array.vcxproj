@@ -85,8 +85,10 @@
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
     <ClCompile Include="15-3Sum.cpp" />
     <ClCompile Include="199-BinaryTreeRightSideView.cpp" />
+    <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
+    <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
