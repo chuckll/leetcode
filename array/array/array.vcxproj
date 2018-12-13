@@ -91,6 +91,7 @@
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
+    <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
