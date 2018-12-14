@@ -90,6 +90,7 @@
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
+    <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
@@ -107,6 +108,7 @@
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
+    <ClCompile Include="938-RangeSumofBST.cpp" />
     <ClCompile Include="94-BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="145-BinaryTreePostorderTraversal.cpp" />
     <ClCompile Include="814-BinaryTreePruning.cpp" />
