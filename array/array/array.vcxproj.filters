@@ -201,5 +201,11 @@
     <ClCompile Include="938-RangeSumofBST.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="841-KeysandRooms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="337-HouseRobberIII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
