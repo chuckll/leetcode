@@ -207,5 +207,8 @@
     <ClCompile Include="337-HouseRobberIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="929-UniqueEmailAddresses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

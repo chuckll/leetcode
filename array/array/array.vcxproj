@@ -110,6 +110,7 @@
     <ClCompile Include="841-KeysandRooms.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
+    <ClCompile Include="929-UniqueEmailAddresses.cpp" />
     <ClCompile Include="938-RangeSumofBST.cpp" />
     <ClCompile Include="94-BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="145-BinaryTreePostorderTraversal.cpp" />
