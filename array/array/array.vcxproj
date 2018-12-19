@@ -102,6 +102,7 @@
     <ClCompile Include="547-FriendCircles.cpp" />
     <ClCompile Include="559-MaximumDepthofN-aryTree.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
+    <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
     <ClCompile Include="684- Redundant-Connection.cpp" />
@@ -140,6 +141,7 @@
     <ClCompile Include="1-twoSum.cpp" />
     <ClCompile Include="242-ValidAnagram.cpp" />
     <ClCompile Include="515-FindLargestValueinEachTreeRow.cpp" />
+    <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp" />
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -210,5 +210,11 @@
     <ClCompile Include="929-UniqueEmailAddresses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="59-SpiralMatrixII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
