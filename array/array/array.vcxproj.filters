@@ -216,5 +216,11 @@
     <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="78-Subsets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="338-CountingBits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

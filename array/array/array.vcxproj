@@ -94,6 +94,7 @@
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="337-HouseRobberIII.cpp" />
+    <ClCompile Include="338-CountingBits.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
@@ -108,6 +109,7 @@
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
+    <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="841-KeysandRooms.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
