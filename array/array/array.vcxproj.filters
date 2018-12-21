@@ -222,5 +222,11 @@
     <ClCompile Include="338-CountingBits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="832-FlippinganImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="922-SortArrayByParityII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
