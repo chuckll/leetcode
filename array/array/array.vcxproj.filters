@@ -228,5 +228,11 @@
     <ClCompile Include="922-SortArrayByParityII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="171-ExcelSheetColumnNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

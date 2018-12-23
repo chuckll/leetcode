@@ -85,6 +85,7 @@
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
     <ClCompile Include="15-3Sum.cpp" />
+    <ClCompile Include="171-ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="199-BinaryTreeRightSideView.cpp" />
     <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
@@ -147,6 +148,7 @@
     <ClCompile Include="515-FindLargestValueinEachTreeRow.cpp" />
     <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp" />
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
+    <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
