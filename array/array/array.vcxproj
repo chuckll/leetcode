@@ -99,6 +99,7 @@
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
+    <ClCompile Include="461-HammingDistance.cpp" />
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
     <ClCompile Include="547-FriendCircles.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="1-twoSum.cpp" />
     <ClCompile Include="242-ValidAnagram.cpp" />
     <ClCompile Include="515-FindLargestValueinEachTreeRow.cpp" />
+    <ClCompile Include="942-DIStringMatch.cpp" />
     <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp" />
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp" />
