@@ -107,6 +107,7 @@
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
+    <ClCompile Include="657-RobotReturntoOrigin.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
@@ -114,6 +115,7 @@
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="841-KeysandRooms.cpp" />
     <ClCompile Include="832-FlippinganImage.cpp" />
+    <ClCompile Include="852-PeakIndexinaMountainArray.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
     <ClCompile Include="922-SortArrayByParityII.cpp" />
