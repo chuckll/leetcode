@@ -246,5 +246,8 @@
     <ClCompile Include="852-PeakIndexinaMountainArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="46- Permutation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -99,6 +99,7 @@
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
+    <ClCompile Include="46- Permutation.cpp" />
     <ClCompile Include="461-HammingDistance.cpp" />
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
