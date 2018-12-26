@@ -249,5 +249,11 @@
     <ClCompile Include="46- Permutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="344-ReverseString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="728-SelfDividingNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
