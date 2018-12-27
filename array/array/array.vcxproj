@@ -116,6 +116,7 @@
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
+    <ClCompile Include="66-PlusOne.cpp" />
     <ClCompile Include="841-KeysandRooms.cpp" />
     <ClCompile Include="832-FlippinganImage.cpp" />
     <ClCompile Include="852-PeakIndexinaMountainArray.cpp" />
