@@ -258,5 +258,11 @@
     <ClCompile Include="66-PlusOne.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="944-DeleteColumnstoMakeSorted.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="284-PeekingIterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
