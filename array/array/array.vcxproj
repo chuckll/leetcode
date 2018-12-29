@@ -93,6 +93,7 @@
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
     <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
+    <ClCompile Include="258- AddDigits.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
     <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="337-HouseRobberIII.cpp" />
@@ -115,12 +116,14 @@
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
+    <ClCompile Include="7251.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
     <ClCompile Include="841-KeysandRooms.cpp" />
     <ClCompile Include="832-FlippinganImage.cpp" />
     <ClCompile Include="852-PeakIndexinaMountainArray.cpp" />
+    <ClCompile Include="867-TransposeMatrix.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
     <ClCompile Include="922-SortArrayByParityII.cpp" />
