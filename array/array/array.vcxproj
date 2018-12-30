@@ -108,6 +108,7 @@
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
     <ClCompile Include="547-FriendCircles.cpp" />
     <ClCompile Include="559-MaximumDepthofN-aryTree.cpp" />
+    <ClCompile Include="561-ArrayPartitionI.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
@@ -116,10 +117,11 @@
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="7251.cpp" />
+    <ClCompile Include="7065.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
+    <ClCompile Include="821-ShortestDistancetoaCharacter.cpp" />
     <ClCompile Include="841-KeysandRooms.cpp" />
     <ClCompile Include="832-FlippinganImage.cpp" />
     <ClCompile Include="852-PeakIndexinaMountainArray.cpp" />
