@@ -107,6 +107,7 @@
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
     <ClCompile Include="547-FriendCircles.cpp" />
+    <ClCompile Include="557-ReverseWordsinaStringIII.cpp" />
     <ClCompile Include="559-MaximumDepthofN-aryTree.cpp" />
     <ClCompile Include="561-ArrayPartitionI.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
@@ -117,7 +118,7 @@
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="7065.cpp" />
+    <ClCompile Include="6902.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />

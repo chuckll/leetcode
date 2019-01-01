@@ -270,13 +270,16 @@
     <ClCompile Include="258- AddDigits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="7065.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="821-ShortestDistancetoaCharacter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="561-ArrayPartitionI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6902.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="557-ReverseWordsinaStringIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
