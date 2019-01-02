@@ -276,11 +276,17 @@
     <ClCompile Include="561-ArrayPartitionI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6902.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="557-ReverseWordsinaStringIII.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="118-Pascal%27sTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="566-ReshapetheMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6820.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
