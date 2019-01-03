@@ -81,6 +81,7 @@
     <ClCompile Include="106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp" />
     <ClCompile Include="107-BinaryTreeLevelOrderTraversalII.cpp" />
     <ClCompile Include="108-ConvertSortedArraytoBinarySearchTree.cpp" />
+    <ClCompile Include="109-ConvertSortedListtoBinarySearchTree.cpp" />
     <ClCompile Include="114-FlattenBinaryTreetoLinked List.cpp" />
     <ClCompile Include="118-Pascal%27sTriangle.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
@@ -120,7 +121,7 @@
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="6820.cpp" />
+    <ClCompile Include="6652.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
@@ -130,6 +131,7 @@
     <ClCompile Include="852-PeakIndexinaMountainArray.cpp" />
     <ClCompile Include="867-TransposeMatrix.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
+    <ClCompile Include="89-GrayCode.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
     <ClCompile Include="922-SortArrayByParityII.cpp" />
     <ClCompile Include="929-UniqueEmailAddresses.cpp" />

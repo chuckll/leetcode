@@ -285,8 +285,14 @@
     <ClCompile Include="566-ReshapetheMatrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6820.cpp">
+    <ClCompile Include="6652.cpp">
       <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="109-ConvertSortedListtoBinarySearchTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="89-GrayCode.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
