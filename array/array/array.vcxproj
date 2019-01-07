@@ -118,10 +118,11 @@
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
     <ClCompile Include="657-RobotReturntoOrigin.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
+    <ClCompile Include="682-BaseballGame.cpp" />
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="6677.cpp" />
+    <ClCompile Include="6657.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
@@ -169,6 +170,7 @@
     <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp" />
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp" />
+    <ClCompile Include="965-UnivaluedBinaryTree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -291,8 +291,14 @@
     <ClCompile Include="89-GrayCode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6677.cpp">
+    <ClCompile Include="6657.cpp">
       <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="965-UnivaluedBinaryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="682-BaseballGame.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
