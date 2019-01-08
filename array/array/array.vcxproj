@@ -97,6 +97,7 @@
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="258- AddDigits.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
+    <ClCompile Include="289-GameofLife.cpp" />
     <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="337-HouseRobberIII.cpp" />
     <ClCompile Include="338-CountingBits.cpp" />
@@ -107,6 +108,7 @@
     <ClCompile Include="46- Permutation.cpp" />
     <ClCompile Include="461-HammingDistance.cpp" />
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
+    <ClCompile Include="509-FibonacciNumber.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
     <ClCompile Include="547-FriendCircles.cpp" />
     <ClCompile Include="557-ReverseWordsinaStringIII.cpp" />
@@ -122,7 +124,7 @@
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="6657.cpp" />
+    <ClCompile Include="6492.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />

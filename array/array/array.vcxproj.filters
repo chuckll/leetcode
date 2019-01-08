@@ -291,13 +291,19 @@
     <ClCompile Include="89-GrayCode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6657.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="965-UnivaluedBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="682-BaseballGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6492.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="509-FibonacciNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="289-GameofLife.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
