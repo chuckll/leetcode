@@ -107,6 +107,7 @@
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
     <ClCompile Include="46- Permutation.cpp" />
     <ClCompile Include="461-HammingDistance.cpp" />
+    <ClCompile Include="48-RotateImage.cpp" />
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="509-FibonacciNumber.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
@@ -124,8 +125,9 @@
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="6492.cpp" />
+    <ClCompile Include="6364.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
+    <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
     <ClCompile Include="821-ShortestDistancetoaCharacter.cpp" />

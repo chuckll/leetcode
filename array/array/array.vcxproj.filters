@@ -297,13 +297,19 @@
     <ClCompile Include="682-BaseballGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6492.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="509-FibonacciNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="289-GameofLife.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6364.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="763-PartitionLabels.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="48-RotateImage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
