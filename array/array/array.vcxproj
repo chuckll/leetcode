@@ -104,6 +104,7 @@
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
+    <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
     <ClCompile Include="46- Permutation.cpp" />
     <ClCompile Include="461-HammingDistance.cpp" />
@@ -123,9 +124,10 @@
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
     <ClCompile Include="682-BaseballGame.cpp" />
     <ClCompile Include="684- Redundant-Connection.cpp" />
+    <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="6364.cpp" />
+    <ClCompile Include="6311.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="78-Subsets.cpp" />

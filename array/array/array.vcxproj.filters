@@ -303,13 +303,19 @@
     <ClCompile Include="289-GameofLife.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6364.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="763-PartitionLabels.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="48-RotateImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6311.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="442-FindAllDuplicatesinanArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
