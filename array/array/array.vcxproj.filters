@@ -309,13 +309,19 @@
     <ClCompile Include="48-RotateImage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6311.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6135.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="540-SingleElementinaSortedArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="973-KClosestPointstoOrigin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

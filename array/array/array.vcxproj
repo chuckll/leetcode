@@ -112,6 +112,7 @@
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="509-FibonacciNumber.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
+    <ClCompile Include="540-SingleElementinaSortedArray.cpp" />
     <ClCompile Include="547-FriendCircles.cpp" />
     <ClCompile Include="557-ReverseWordsinaStringIII.cpp" />
     <ClCompile Include="559-MaximumDepthofN-aryTree.cpp" />
@@ -127,7 +128,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="6311.cpp" />
+    <ClCompile Include="6135.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
@@ -177,6 +178,7 @@
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp" />
     <ClCompile Include="965-UnivaluedBinaryTree.cpp" />
+    <ClCompile Include="973-KClosestPointstoOrigin.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
