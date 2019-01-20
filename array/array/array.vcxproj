@@ -103,6 +103,7 @@
     <ClCompile Include="338-CountingBits.cpp" />
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
+    <ClCompile Include="371-SumofTwoIntegers.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
@@ -110,6 +111,7 @@
     <ClCompile Include="461-HammingDistance.cpp" />
     <ClCompile Include="476-NumberComplement.cpp" />
     <ClCompile Include="48-RotateImage.cpp" />
+    <ClCompile Include="496-NextGreaterElementI.cpp" />
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="509-FibonacciNumber.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
@@ -129,7 +131,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="6030.cpp" />
+    <ClCompile Include="5908.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
