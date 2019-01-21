@@ -327,13 +327,19 @@
     <ClCompile Include="804-UniqueMorseCodeWords.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5908.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="496-NextGreaterElementI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="371-SumofTwoIntegers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5758.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="806-NumberofLinesToWriteString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="791-CustomSortString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

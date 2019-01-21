@@ -131,12 +131,14 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="5908.cpp" />
+    <ClCompile Include="5758.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
+    <ClCompile Include="791-CustomSortString.cpp" />
     <ClCompile Include="804-UniqueMorseCodeWords.cpp" />
+    <ClCompile Include="806-NumberofLinesToWriteString.cpp" />
     <ClCompile Include="821-ShortestDistancetoaCharacter.cpp" />
     <ClCompile Include="841-KeysandRooms.cpp" />
     <ClCompile Include="832-FlippinganImage.cpp" />
