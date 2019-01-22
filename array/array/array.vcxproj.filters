@@ -333,13 +333,25 @@
     <ClCompile Include="371-SumofTwoIntegers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5758.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="806-NumberofLinesToWriteString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="791-CustomSortString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5614.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="876-MiddleoftheLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="883-ProjectionAreaof3DShapes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="206-ReverseLinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="232-ImplementQueueusingStacks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

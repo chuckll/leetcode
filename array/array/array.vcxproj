@@ -90,8 +90,10 @@
     <ClCompile Include="171-ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="199-BinaryTreeRightSideView.cpp" />
     <ClCompile Include="200-NumberofIslands.cpp" />
+    <ClCompile Include="206-ReverseLinkedList.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
+    <ClCompile Include="232-ImplementQueueusingStacks.cpp" />
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
     <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
@@ -131,7 +133,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="5758.cpp" />
+    <ClCompile Include="5614.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
@@ -145,6 +147,8 @@
     <ClCompile Include="852-PeakIndexinaMountainArray.cpp" />
     <ClCompile Include="867-TransposeMatrix.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
+    <ClCompile Include="876-MiddleoftheLinkedList.cpp" />
+    <ClCompile Include="883-ProjectionAreaof3DShapes.cpp" />
     <ClCompile Include="89-GrayCode.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
     <ClCompile Include="922-SortArrayByParityII.cpp" />
