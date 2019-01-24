@@ -85,6 +85,7 @@
     <ClCompile Include="114-FlattenBinaryTreetoLinked List.cpp" />
     <ClCompile Include="118-Pascal%27sTriangle.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
+    <ClCompile Include="13-RomantoInteger.cpp" />
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
     <ClCompile Include="15-3Sum.cpp" />
     <ClCompile Include="171-ExcelSheetColumnNumber.cpp" />
@@ -133,9 +134,10 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="5614.cpp" />
+    <ClCompile Include="5317.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
+    <ClCompile Include="766-ToeplitzMatrix.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
     <ClCompile Include="791-CustomSortString.cpp" />
