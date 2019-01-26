@@ -351,13 +351,22 @@
     <ClCompile Include="232-ImplementQueueusingStacks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5317.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="13-RomantoInteger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="766-ToeplitzMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="978-LongestTurbulentSubarray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5088.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="868-BinaryGap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="169-MajorityElement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
