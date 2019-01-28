@@ -94,6 +94,7 @@
     <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="206-ReverseLinkedList.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
+    <ClCompile Include="225-ImplementStackusingQueues.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
     <ClCompile Include="232-ImplementQueueusingStacks.cpp" />
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
@@ -135,7 +136,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="5088.cpp" />
+    <ClCompile Include="4977.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="766-ToeplitzMatrix.cpp" />
@@ -193,6 +194,7 @@
     <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp" />
     <ClCompile Include="965-UnivaluedBinaryTree.cpp" />
     <ClCompile Include="973-KClosestPointstoOrigin.cpp" />
+    <ClCompile Include="976-LargestPerimeterTriangle.cpp" />
     <ClCompile Include="978-LongestTurbulentSubarray.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

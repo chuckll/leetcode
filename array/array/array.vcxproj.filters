@@ -360,13 +360,19 @@
     <ClCompile Include="978-LongestTurbulentSubarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5088.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="868-BinaryGap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="169-MajorityElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4977.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="976-LargestPerimeterTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="225-ImplementStackusingQueues.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
