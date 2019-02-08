@@ -366,13 +366,31 @@
     <ClCompile Include="169-MajorityElement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4977.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="976-LargestPerimeterTriangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="225-ImplementStackusingQueues.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9-PalindromeNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="706-DesignHashMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="824-GoatLatin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4854.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="884-UncommonWordsfromTwoSentences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="283-MoveZeroes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="202-HappyNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
