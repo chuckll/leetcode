@@ -390,13 +390,25 @@
     <ClCompile Include="202-HappyNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4731.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="520-DetectCapital.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="485-MaxConsecutiveOnes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="575-DistributeCandies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4663.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="292-NimGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -105,6 +105,7 @@
     <ClCompile Include="283-MoveZeroes.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
     <ClCompile Include="289-GameofLife.cpp" />
+    <ClCompile Include="292-NimGame.cpp" />
     <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="337-HouseRobberIII.cpp" />
     <ClCompile Include="338-CountingBits.cpp" />
@@ -130,6 +131,7 @@
     <ClCompile Include="559-MaximumDepthofN-aryTree.cpp" />
     <ClCompile Include="561-ArrayPartitionI.cpp" />
     <ClCompile Include="566-ReshapetheMatrix.cpp" />
+    <ClCompile Include="575-DistributeCandies.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
@@ -140,9 +142,10 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="4731.cpp" />
+    <ClCompile Include="4663.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
+    <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="766-ToeplitzMatrix.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
@@ -204,6 +207,7 @@
     <ClCompile Include="973-KClosestPointstoOrigin.cpp" />
     <ClCompile Include="976-LargestPerimeterTriangle.cpp" />
     <ClCompile Include="978-LongestTurbulentSubarray.cpp" />
+    <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
