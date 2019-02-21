@@ -402,13 +402,19 @@
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4663.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="292-NimGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4578.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="933-NumberofRecentCalls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="908-SmallestRangeI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
