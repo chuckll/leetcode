@@ -408,13 +408,19 @@
     <ClCompile Include="292-NimGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4578.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="933-NumberofRecentCalls.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="908-SmallestRangeI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4478.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="812-LargestTriangleArea.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="530-MinimumAbsoluteDifferenceinBST.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
