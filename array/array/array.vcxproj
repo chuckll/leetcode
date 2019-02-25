@@ -84,6 +84,7 @@
     <ClCompile Include="109-ConvertSortedListtoBinarySearchTree.cpp" />
     <ClCompile Include="114-FlattenBinaryTreetoLinked List.cpp" />
     <ClCompile Include="118-Pascal%27sTriangle.cpp" />
+    <ClCompile Include="119-Pascal%27sTriangleII.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="13-RomantoInteger.cpp" />
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
@@ -106,6 +107,7 @@
     <ClCompile Include="284-PeekingIterator.cpp" />
     <ClCompile Include="289-GameofLife.cpp" />
     <ClCompile Include="292-NimGame.cpp" />
+    <ClCompile Include="303-RangeSumQuery-Immutable.cpp" />
     <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="337-HouseRobberIII.cpp" />
     <ClCompile Include="338-CountingBits.cpp" />
@@ -143,7 +145,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="4478.cpp" />
+    <ClCompile Include="4451.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
