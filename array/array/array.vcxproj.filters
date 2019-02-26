@@ -420,13 +420,19 @@
     <ClCompile Include="530-MinimumAbsoluteDifferenceinBST.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4451.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="303-RangeSumQuery-Immutable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="119-Pascal%27sTriangleII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4366.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="893-GroupsofSpecial-EquivalentStrings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="538-ConvertBSTtoGreaterTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
