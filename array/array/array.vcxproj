@@ -146,7 +146,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="4366.cpp" />
+    <ClCompile Include="4261.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
@@ -216,6 +216,8 @@
     <ClCompile Include="976-LargestPerimeterTriangle.cpp" />
     <ClCompile Include="978-LongestTurbulentSubarray.cpp" />
     <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp" />
+    <ClCompile Include="999-AvailableCapturesforRook.cpp" />
+    <ClCompile Include="重建二叉树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -426,13 +426,19 @@
     <ClCompile Include="119-Pascal%27sTriangleII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4366.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="893-GroupsofSpecial-EquivalentStrings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="538-ConvertBSTtoGreaterTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="999-AvailableCapturesforRook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4261.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="重建二叉树.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
