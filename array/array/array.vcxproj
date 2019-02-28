@@ -116,6 +116,7 @@
     <ClCompile Include="371-SumofTwoIntegers.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
+    <ClCompile Include="447-NumberofBoomerangs.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
     <ClCompile Include="46- Permutation.cpp" />
     <ClCompile Include="461-HammingDistance.cpp" />
@@ -177,6 +178,7 @@
     <ClCompile Include="922-SortArrayByParityII.cpp" />
     <ClCompile Include="929-UniqueEmailAddresses.cpp" />
     <ClCompile Include="933-NumberofRecentCalls.cpp" />
+    <ClCompile Include="937-ReorderLogFiles.cpp" />
     <ClCompile Include="938-RangeSumofBST.cpp" />
     <ClCompile Include="94-BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="145-BinaryTreePostorderTraversal.cpp" />
