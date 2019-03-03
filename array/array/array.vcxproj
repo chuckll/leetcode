@@ -95,7 +95,9 @@
     <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="202-HappyNumber.cpp" />
     <ClCompile Include="206-ReverseLinkedList.cpp" />
+    <ClCompile Include="21-MergeTwoSortedLists.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
+    <ClCompile Include="22-GenerateParentheses.cpp" />
     <ClCompile Include="225-ImplementStackusingQueues.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
     <ClCompile Include="232-ImplementQueueusingStacks.cpp" />
@@ -147,7 +149,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="4134.cpp" />
+    <ClCompile Include="4093.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />

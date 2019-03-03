@@ -444,8 +444,14 @@
     <ClCompile Include="447-NumberofBoomerangs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4134.cpp">
+    <ClCompile Include="4093.cpp">
       <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21-MergeTwoSortedLists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="22-GenerateParentheses.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
