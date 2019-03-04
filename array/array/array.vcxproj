@@ -149,12 +149,13 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="4093.cpp" />
+    <ClCompile Include="4014.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="766-ToeplitzMatrix.cpp" />
+    <ClCompile Include="77- Combinations.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
     <ClCompile Include="791-CustomSortString.cpp" />
@@ -177,6 +178,7 @@
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
     <ClCompile Include="9-PalindromeNumber.cpp" />
     <ClCompile Include="908-SmallestRangeI.cpp" />
+    <ClCompile Include="921-MinimumAddtoMakeParenthesesValid.cpp" />
     <ClCompile Include="922-SortArrayByParityII.cpp" />
     <ClCompile Include="929-UniqueEmailAddresses.cpp" />
     <ClCompile Include="933-NumberofRecentCalls.cpp" />
