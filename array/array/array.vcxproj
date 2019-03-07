@@ -131,6 +131,7 @@
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
     <ClCompile Include="520-DetectCapital.cpp" />
     <ClCompile Include="530-MinimumAbsoluteDifferenceinBST.cpp" />
+    <ClCompile Include="537-ComplexNumberMultiplication.cpp" />
     <ClCompile Include="538-ConvertBSTtoGreaterTree.cpp" />
     <ClCompile Include="540-SingleElementinaSortedArray.cpp" />
     <ClCompile Include="547-FriendCircles.cpp" />
@@ -149,7 +150,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="4014.cpp" />
+    <ClCompile Include="3956.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
@@ -174,6 +175,7 @@
     <ClCompile Include="883-ProjectionAreaof3DShapes.cpp" />
     <ClCompile Include="884-UncommonWordsfromTwoSentences.cpp" />
     <ClCompile Include="89-GrayCode.cpp" />
+    <ClCompile Include="890-FindandReplacePattern.cpp" />
     <ClCompile Include="893-GroupsofSpecial-EquivalentStrings.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
     <ClCompile Include="9-PalindromeNumber.cpp" />

@@ -450,14 +450,20 @@
     <ClCompile Include="22-GenerateParentheses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4014.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="921-MinimumAddtoMakeParenthesesValid.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="77- Combinations.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="890-FindandReplacePattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="537-ComplexNumberMultiplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3956.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -7,11 +7,14 @@ using namespace std;
 class Solution {
 public:
     vector<int> grayCode(int n) {
-		int max_step;
-		if(n >= 1)
+		vector<int> res;
+		int m = pow(2,n);
+		for(int i = 0; i < m; i++)
 		{
-		    max_step = pow(2,n-1);
+			int f = i ^ (i/2);
+			res.push_back(f);
 		}
+		return res;
 		
     }
 };
