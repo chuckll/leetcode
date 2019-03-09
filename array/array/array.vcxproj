@@ -76,6 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1002-FindCommonCharacters.cpp" />
     <ClCompile Include="102-BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="105-ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
     <ClCompile Include="106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp" />
@@ -116,6 +117,7 @@
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="371-SumofTwoIntegers.cpp" />
+    <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
     <ClCompile Include="447-NumberofBoomerangs.cpp" />
@@ -150,7 +152,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3956.cpp" />
+    <ClCompile Include="3882.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
@@ -225,6 +227,10 @@
     <ClCompile Include="978-LongestTurbulentSubarray.cpp" />
     <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp" />
     <ClCompile Include="999-AvailableCapturesforRook.cpp" />
+    <ClCompile Include="Source111.cpp" />
+    <ClCompile Include="Source222.cpp" />
+    <ClCompile Include="Source333.cpp" />
+    <ClCompile Include="Source444.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

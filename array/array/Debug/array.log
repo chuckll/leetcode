@@ -1,29 +1,226 @@
-﻿Build started 2018/12/7 20:56:54.
+﻿Build started 2019/3/9 20:55:12.
      1>Project "E:\leetcode\array\array\array.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "129-SumRoottoLeafNumbers.cpp" "215-KthLargestElementinanArray.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "451-SortCharactersByFrequency.cpp" "547-FriendCircles.cpp" "684- Redundant-Connection.cpp" "515-FindLargestValueinEachTreeRow.cpp" "96-UniqueBinarySearchTrees.cpp"
-         96-UniqueBinarySearchTrees.cpp
-         515-FindLargestValueinEachTreeRow.cpp
-         684- Redundant-Connection.cpp
-     1>e:\leetcode\array\array\684- redundant-connection.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "1002-FindCommonCharacters.cpp" "102-BinaryTreeLevelOrderTraversal.cpp" "109-ConvertSortedListtoBinarySearchTree.cpp" "118-Pascal'sTriangle.cpp" "119-Pascal'sTriangleII.cpp" "13-RomantoInteger.cpp" "169-MajorityElement.cpp" "171-ExcelSheetColumnNumber.cpp" "199-BinaryTreeRightSideView.cpp" "200-NumberofIslands.cpp" "202-HappyNumber.cpp" "206-ReverseLinkedList.cpp" "21-MergeTwoSortedLists.cpp" "22-GenerateParentheses.cpp" "225-ImplementStackusingQueues.cpp" "232-ImplementQueueusingStacks.cpp" "235-LowestCommonAncestorofaBinarySearchTree.cpp" "237-DeleteNodeinaLinkedList.cpp" "258- AddDigits.cpp" "283-MoveZeroes.cpp" "284-PeekingIterator.cpp" "289-GameofLife.cpp" "292-NimGame.cpp" "303-RangeSumQuery-Immutable.cpp" "313-SuperUglyNumber.cpp" "337-HouseRobberIII.cpp" "338-CountingBits.cpp" "344-ReverseString.cpp" "347-TopKFrequentElements.cpp" "371-SumofTwoIntegers.cpp" "406-QueueReconstructionbyHeight.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "442-FindAllDuplicatesinanArray.cpp" "447-NumberofBoomerangs.cpp" "451-SortCharactersByFrequency.cpp" "46- Permutation.cpp" "461-HammingDistance.cpp" "476-NumberComplement.cpp" "48-RotateImage.cpp" "485-MaxConsecutiveOnes.cpp" "496-NextGreaterElementI.cpp" "508-MostFrequentSubtreeSum.cpp" "509-FibonacciNumber.cpp" "520-DetectCapital.cpp" "530-MinimumAbsoluteDifferenceinBST.cpp" "537-ComplexNumberMultiplication.cpp" "538-ConvertBSTtoGreaterTree.cpp" "540-SingleElementinaSortedArray.cpp" "547-FriendCircles.cpp" "557-ReverseWordsinaStringIII.cpp" "561-ArrayPartitionI.cpp" "566-ReshapetheMatrix.cpp" "575-DistributeCandies.cpp" "59-SpiralMatrixII.cpp" "657-RobotReturntoOrigin.cpp" "682-BaseballGame.cpp" "693-BinaryNumberwithAlternatingBits.cpp" 3882.cpp "706-DesignHashMap.cpp" "728-SelfDividingNumbers.cpp" "762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" "763-PartitionLabels.cpp" "766-ToeplitzMatrix.cpp" "77- Combinations.cpp" "78-Subsets.cpp" "66-PlusOne.cpp" "791-CustomSortString.cpp" "804-UniqueMorseCodeWords.cpp" "806-NumberofLinesToWriteString.cpp" "812-LargestTriangleArea.cpp" "821-ShortestDistancetoaCharacter.cpp" "824-GoatLatin.cpp" "841-KeysandRooms.cpp" "832-FlippinganImage.cpp" "852-PeakIndexinaMountainArray.cpp" "867-TransposeMatrix.cpp" "868-BinaryGap.cpp" "876-MiddleoftheLinkedList.cpp" "883-ProjectionAreaof3DShapes.cpp" "884-UncommonWordsfromTwoSentences.cpp" "89-GrayCode.cpp" "890-FindandReplacePattern.cpp" "893-GroupsofSpecial-EquivalentStrings.cpp" "9-PalindromeNumber.cpp" "908-SmallestRangeI.cpp" "921-MinimumAddtoMakeParenthesesValid.cpp" "922-SortArrayByParityII.cpp" "929-UniqueEmailAddresses.cpp" "933-NumberofRecentCalls.cpp" "937-ReorderLogFiles.cpp" "938-RangeSumofBST.cpp" "942-DIStringMatch.cpp" "944-DeleteColumnstoMakeSorted.cpp" "950-RevealCardsInIncreasingOrder.cpp" "961-N-RepeatedElementinSize2NArray.cpp" "965-UnivaluedBinaryTree.cpp" "973-KClosestPointstoOrigin.cpp" "976-LargestPerimeterTriangle.cpp" "978-LongestTurbulentSubarray.cpp" "985-SumofEvenNumbersAfterQueries.cpp" "999-AvailableCapturesforRook.cpp" Source111.cpp Source222.cpp Source333.cpp Source444.cpp "重建二叉树.cpp"
+         重建二叉树.cpp
+         Source444.cpp
+     1>e:\leetcode\array\array\source444.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\leetcode\array\array\source444.cpp(22): warning C4018: '<' : signed/unsigned mismatch
+         Source333.cpp
+     1>e:\leetcode\array\array\source333.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+         Source222.cpp
+     1>e:\leetcode\array\array\source222.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\leetcode\array\array\source222.cpp(21): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\leetcode\array\array\source222.cpp(30): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\leetcode\array\array\source222.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+         Source111.cpp
+         999-AvailableCapturesforRook.cpp
+         985-SumofEvenNumbersAfterQueries.cpp
+     1>e:\leetcode\array\array\985-sumofevennumbersafterqueries.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+         978-LongestTurbulentSubarray.cpp
+     1>e:\leetcode\array\array\978-longestturbulentsubarray.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+         976-LargestPerimeterTriangle.cpp
+         973-KClosestPointstoOrigin.cpp
+         965-UnivaluedBinaryTree.cpp
+         961-N-RepeatedElementinSize2NArray.cpp
+     1>e:\leetcode\array\array\961-n-repeatedelementinsize2narray.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\961-n-repeatedelementinsize2narray.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+         950-RevealCardsInIncreasingOrder.cpp
+         944-DeleteColumnstoMakeSorted.cpp
+     1>e:\leetcode\array\array\944-deletecolumnstomakesorted.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+         942-DIStringMatch.cpp
+         938-RangeSumofBST.cpp
+         937-ReorderLogFiles.cpp
+     1>e:\leetcode\array\array\937-reorderlogfiles.cpp(33): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\937-reorderlogfiles.cpp(76): warning C4018: '<' : signed/unsigned mismatch
+         933-NumberofRecentCalls.cpp
+     1>e:\leetcode\array\array\933-numberofrecentcalls.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+         929-UniqueEmailAddresses.cpp
+         922-SortArrayByParityII.cpp
+     1>e:\leetcode\array\array\922-sortarraybyparityii.cpp(11): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         921-MinimumAddtoMakeParenthesesValid.cpp
+         908-SmallestRangeI.cpp
+         9-PalindromeNumber.cpp
+         893-GroupsofSpecial-EquivalentStrings.cpp
+     1>e:\leetcode\array\array\893-groupsofspecial-equivalentstrings.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\893-groupsofspecial-equivalentstrings.cpp(23): warning C4018: '<' : signed/unsigned mismatch
+         890-FindandReplacePattern.cpp
+         89-GrayCode.cpp
+     1>e:\leetcode\array\array\89-graycode.cpp(11): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         884-UncommonWordsfromTwoSentences.cpp
+     1>e:\leetcode\array\array\884-uncommonwordsfromtwosentences.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\884-uncommonwordsfromtwosentences.cpp(27): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\884-uncommonwordsfromtwosentences.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+         883-ProjectionAreaof3DShapes.cpp
+         876-MiddleoftheLinkedList.cpp
+         868-BinaryGap.cpp
+         867-TransposeMatrix.cpp
+     1>e:\leetcode\array\array\867-transposematrix.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+         852-PeakIndexinaMountainArray.cpp
+         832-FlippinganImage.cpp
+         841-KeysandRooms.cpp
+     1>e:\leetcode\array\array\841-keysandrooms.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\841-keysandrooms.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+         824-GoatLatin.cpp
+     1>e:\leetcode\array\array\824-goatlatin.cpp(17): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\824-goatlatin.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\824-goatlatin.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+         821-ShortestDistancetoaCharacter.cpp
+         812-LargestTriangleArea.cpp
+         806-NumberofLinesToWriteString.cpp
+     1>e:\leetcode\array\array\806-numberoflinestowritestring.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+         804-UniqueMorseCodeWords.cpp
+     1>e:\leetcode\array\array\804-uniquemorsecodewords.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\804-uniquemorsecodewords.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\804-uniquemorsecodewords.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+         791-CustomSortString.cpp
+     1>e:\leetcode\array\array\791-customsortstring.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\791-customsortstring.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\791-customsortstring.cpp(24): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         66-PlusOne.cpp
+         78-Subsets.cpp
+     1>e:\leetcode\array\array\78-subsets.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+         77- Combinations.cpp
+         766-ToeplitzMatrix.cpp
+         763-PartitionLabels.cpp
+     1>e:\leetcode\array\array\763-partitionlabels.cpp(29): warning C4018: '<' : signed/unsigned mismatch
+         762-PrimeNumberofSetBitsinBinaryRepresentation.cpp
+         728-SelfDividingNumbers.cpp
+     1>e:\leetcode\array\array\728-selfdividingnumbers.cpp(22): warning C4018: '<' : signed/unsigned mismatch
+         706-DesignHashMap.cpp
+         3882.cpp
+         693-BinaryNumberwithAlternatingBits.cpp
+         682-BaseballGame.cpp
+     1>e:\leetcode\array\array\682-baseballgame.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\682-baseballgame.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+         657-RobotReturntoOrigin.cpp
+         59-SpiralMatrixII.cpp
+         575-DistributeCandies.cpp
+     1>e:\leetcode\array\array\575-distributecandies.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\575-distributecandies.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+         566-ReshapetheMatrix.cpp
+     1>e:\leetcode\array\array\566-reshapethematrix.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\566-reshapethematrix.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+         561-ArrayPartitionI.cpp
+         557-ReverseWordsinaStringIII.cpp
+     1>e:\leetcode\array\array\557-reversewordsinastringiii.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\557-reversewordsinastringiii.cpp(23): warning C4018: '<' : signed/unsigned mismatch
          547-FriendCircles.cpp
      1>e:\leetcode\array\array\547-friendcircles.cpp(9): error C2864: 'Solution::N' : only static const integral data members can be initialized within a class
      1>e:\leetcode\array\array\547-friendcircles.cpp(10): error C2327: 'Solution::N' : is not a type name, static, or enumerator
      1>e:\leetcode\array\array\547-friendcircles.cpp(10): error C2065: 'N' : undeclared identifier
      1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2327: 'Solution::N' : is not a type name, static, or enumerator
      1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2065: 'N' : undeclared identifier
+         540-SingleElementinaSortedArray.cpp
+         538-ConvertBSTtoGreaterTree.cpp
+         Generating Code...
+         Compiling...
+         537-ComplexNumberMultiplication.cpp
+     1>e:\leetcode\array\array\537-complexnumbermultiplication.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\537-complexnumbermultiplication.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+         530-MinimumAbsoluteDifferenceinBST.cpp
+         520-DetectCapital.cpp
+     1>e:\leetcode\array\array\520-detectcapital.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+         509-FibonacciNumber.cpp
+         508-MostFrequentSubtreeSum.cpp
+     1>e:\leetcode\array\array\508-mostfrequentsubtreesum.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\508-mostfrequentsubtreesum.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+         496-NextGreaterElementI.cpp
+     1>e:\leetcode\array\array\496-nextgreaterelementi.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\496-nextgreaterelementi.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\496-nextgreaterelementi.cpp(22): warning C4018: '<' : signed/unsigned mismatch
+         485-MaxConsecutiveOnes.cpp
+     1>e:\leetcode\array\array\485-maxconsecutiveones.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+         48-RotateImage.cpp
+         476-NumberComplement.cpp
+     1>e:\leetcode\array\array\476-numbercomplement.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\476-numbercomplement.cpp(22): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+         461-HammingDistance.cpp
+         46- Permutation.cpp
+     1>e:\leetcode\array\array\46- permutation.cpp(40): error C2011: 'Solution' : 'class' type redefinition
+                 e:\leetcode\array\array\46- permutation.cpp(6) : see declaration of 'Solution'
          451-SortCharactersByFrequency.cpp
      1>e:\leetcode\array\array\451-sortcharactersbyfrequency.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+         447-NumberofBoomerangs.cpp
+     1>e:\leetcode\array\array\447-numberofboomerangs.cpp(23): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         442-FindAllDuplicatesinanArray.cpp
          429-N-aryTreeLevelOrderTraversal.cpp
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(8): error C2864: 'Node::val' : only static const integral data members can be initialized within a class
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(38): warning C4018: '<' : signed/unsigned mismatch
-         215-KthLargestElementinanArray.cpp
-         129-SumRoottoLeafNumbers.cpp
-     1>e:\leetcode\array\array\129-sumroottoleafnumbers.cpp(21): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\129-sumroottoleafnumbers.cpp(26): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+         406-QueueReconstructionbyHeight.cpp
+     1>e:\leetcode\array\array\406-queuereconstructionbyheight.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+         371-SumofTwoIntegers.cpp
+         347-TopKFrequentElements.cpp
+     1>e:\leetcode\array\array\347-topkfrequentelements.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+         344-ReverseString.cpp
+         338-CountingBits.cpp
+         Generating Code...
+         Compiling...
+         337-HouseRobberIII.cpp
+         313-SuperUglyNumber.cpp
+         303-RangeSumQuery-Immutable.cpp
+     1>e:\leetcode\array\array\303-rangesumquery-immutable.cpp(11): warning C4018: '<' : signed/unsigned mismatch
+         292-NimGame.cpp
+         289-GameofLife.cpp
+         284-PeekingIterator.cpp
+         283-MoveZeroes.cpp
+     1>e:\leetcode\array\array\283-movezeroes.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+         258- AddDigits.cpp
+     1>e:\leetcode\array\array\258- adddigits.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+         237-DeleteNodeinaLinkedList.cpp
+         235-LowestCommonAncestorofaBinarySearchTree.cpp
+     1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(33): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(35): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(73): error C2011: 'Solution' : 'class' type redefinition
+                 e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(12) : see declaration of 'Solution'
+         232-ImplementQueueusingStacks.cpp
+         225-ImplementStackusingQueues.cpp
+     1>e:\leetcode\array\array\225-implementstackusingqueues.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+         22-GenerateParentheses.cpp
+         21-MergeTwoSortedLists.cpp
+     1>e:\leetcode\array\array\21-mergetwosortedlists.cpp(30): warning C4018: '<' : signed/unsigned mismatch
+         206-ReverseLinkedList.cpp
+         202-HappyNumber.cpp
+     1>e:\leetcode\array\array\202-happynumber.cpp(24): warning C4018: '<' : signed/unsigned mismatch
+         200-NumberofIslands.cpp
+     1>e:\leetcode\array\array\200-numberofislands.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\200-numberofislands.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\200-numberofislands.cpp(33): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\200-numberofislands.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+         199-BinaryTreeRightSideView.cpp
+         171-ExcelSheetColumnNumber.cpp
+     1>e:\leetcode\array\array\171-excelsheetcolumnnumber.cpp(17): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+         169-MajorityElement.cpp
+         Generating Code...
+         Compiling...
+         13-RomantoInteger.cpp
+     1>e:\leetcode\array\array\13-romantointeger.cpp(12): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\13-romantointeger.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\13-romantointeger.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\13-romantointeger.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\13-romantointeger.cpp(35): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\13-romantointeger.cpp(46): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\13-romantointeger.cpp(50): warning C4018: '<' : signed/unsigned mismatch
+         119-Pascal'sTriangleII.cpp
+         118-Pascal'sTriangle.cpp
+     1>e:\leetcode\array\array\118-pascal'striangle.cpp(16): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\118-pascal'striangle.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+         109-ConvertSortedListtoBinarySearchTree.cpp
+         102-BinaryTreeLevelOrderTraversal.cpp
+         1002-FindCommonCharacters.cpp
+     1>e:\leetcode\array\array\1002-findcommoncharacters.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\1002-findcommoncharacters.cpp(15): warning C4018: '<' : signed/unsigned mismatch
          Generating Code...
      1>Done Building Project "E:\leetcode\array\array\array.vcxproj" (Build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:04.22
+Time Elapsed 00:00:45.13

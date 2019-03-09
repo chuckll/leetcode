@@ -462,8 +462,26 @@
     <ClCompile Include="537-ComplexNumberMultiplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3956.cpp">
+    <ClCompile Include="3882.cpp">
       <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1002-FindCommonCharacters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="406-QueueReconstructionbyHeight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source111.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source222.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source333.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source444.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
