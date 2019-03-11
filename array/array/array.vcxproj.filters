@@ -462,9 +462,6 @@
     <ClCompile Include="537-ComplexNumberMultiplication.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3882.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="1002-FindCommonCharacters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -481,6 +478,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Source444.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3885.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1008-ConstructBinarySearchTreefromPreorderTraversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="797-AllPathsFromSourcetoTarget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
