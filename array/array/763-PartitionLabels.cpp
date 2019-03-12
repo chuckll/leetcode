@@ -10,14 +10,14 @@ public:
 		vector<int> res;
         int n = S.size();
 		int counts = 0;
-		vector<int> Comax(n,-1);
+		vector<int> Comax(501,-1);     //vector 初始化不能用变量n
 		int start = 0;
 		while(counts < n)
 		{
 			vector<int> same;
 			char c = S[start];
 			same.push_back(start);
-			int end = 0;
+			int end = start;
 			for(int i = start + 1; i < n; i++)
 			{
 				if(S[i] == c)
@@ -31,6 +31,7 @@ public:
 				Comax[same[i]] = end;
 				counts++;
 			}
+			start++;
 			while(Comax[start] != -1)
 			{
 				start++;
@@ -42,7 +43,7 @@ public:
 		while(begin < n)
 		{
 			int end = Comax[begin];
-			for(int  i = begin+1; i < end; i++)
+			for(int  i = begin+1; i <= end; i++)
 			{
 				if(Comax[i] <= end)
 					continue;
