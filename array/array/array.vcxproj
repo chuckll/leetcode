@@ -118,6 +118,7 @@
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="371-SumofTwoIntegers.cpp" />
+    <ClCompile Include="39-CombinationSum.cpp" />
     <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
@@ -153,7 +154,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3828.cpp" />
+    <ClCompile Include="3770.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="797-AllPathsFromSourcetoTarget.cpp" />
     <ClCompile Include="804-UniqueMorseCodeWords.cpp" />
     <ClCompile Include="806-NumberofLinesToWriteString.cpp" />
+    <ClCompile Include="811- SubdomainVisitCount.cpp" />
     <ClCompile Include="812-LargestTriangleArea.cpp" />
     <ClCompile Include="821-ShortestDistancetoaCharacter.cpp" />
     <ClCompile Include="824-GoatLatin.cpp" />
