@@ -134,6 +134,7 @@
     <ClCompile Include="509-FibonacciNumber.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
     <ClCompile Include="520-DetectCapital.cpp" />
+    <ClCompile Include="521-LongestUncommonSubsequenceI.cpp" />
     <ClCompile Include="530-MinimumAbsoluteDifferenceinBST.cpp" />
     <ClCompile Include="537-ComplexNumberMultiplication.cpp" />
     <ClCompile Include="538-ConvertBSTtoGreaterTree.cpp" />
@@ -154,7 +155,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3770.cpp" />
+    <ClCompile Include="3667.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
