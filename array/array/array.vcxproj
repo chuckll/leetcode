@@ -105,6 +105,7 @@
     <ClCompile Include="232-ImplementQueueusingStacks.cpp" />
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
     <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
+    <ClCompile Include="238-ProductofArrayExceptSelf.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="258- AddDigits.cpp" />
     <ClCompile Include="283-MoveZeroes.cpp" />
@@ -155,9 +156,10 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3667.cpp" />
+    <ClCompile Include="3602.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
+    <ClCompile Include="739-DailyTemperatures.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="766-ToeplitzMatrix.cpp" />
@@ -227,6 +229,7 @@
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp" />
     <ClCompile Include="965-UnivaluedBinaryTree.cpp" />
+    <ClCompile Include="969-PancakeSorting.cpp" />
     <ClCompile Include="973-KClosestPointstoOrigin.cpp" />
     <ClCompile Include="976-LargestPerimeterTriangle.cpp" />
     <ClCompile Include="978-LongestTurbulentSubarray.cpp" />

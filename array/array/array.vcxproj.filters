@@ -492,10 +492,19 @@
     <ClCompile Include="39-CombinationSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3667.cpp">
+    <ClCompile Include="521-LongestUncommonSubsequenceI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="969-PancakeSorting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3602.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="521-LongestUncommonSubsequenceI.cpp">
+    <ClCompile Include="238-ProductofArrayExceptSelf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="739-DailyTemperatures.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
