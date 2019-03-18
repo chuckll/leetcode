@@ -498,13 +498,16 @@
     <ClCompile Include="969-PancakeSorting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3602.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="238-ProductofArrayExceptSelf.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="739-DailyTemperatures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3566.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="173-BinarySearchTreeIterator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
