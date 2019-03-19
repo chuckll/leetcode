@@ -107,10 +107,12 @@
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
     <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="238-ProductofArrayExceptSelf.cpp" />
+    <ClCompile Include="24-SwapNodesinPairs.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="258- AddDigits.cpp" />
     <ClCompile Include="283-MoveZeroes.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
+    <ClCompile Include="287-FindtheDuplicateNumber.cpp" />
     <ClCompile Include="289-GameofLife.cpp" />
     <ClCompile Include="292-NimGame.cpp" />
     <ClCompile Include="303-RangeSumQuery-Immutable.cpp" />
