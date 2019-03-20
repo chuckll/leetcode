@@ -87,6 +87,7 @@
     <ClCompile Include="114-FlattenBinaryTreetoLinked List.cpp" />
     <ClCompile Include="118-Pascal%27sTriangle.cpp" />
     <ClCompile Include="119-Pascal%27sTriangleII.cpp" />
+    <ClCompile Include="12-IntegertoRoman.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="13-RomantoInteger.cpp" />
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
@@ -154,12 +155,13 @@
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
     <ClCompile Include="657-RobotReturntoOrigin.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
+    <ClCompile Include="677-MapSumPairs.cpp" />
     <ClCompile Include="682-BaseballGame.cpp" />
     <ClCompile Include="684- Redundant-Connection.cpp" />
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3566.cpp" />
+    <ClCompile Include="3529.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="739-DailyTemperatures.cpp" />
