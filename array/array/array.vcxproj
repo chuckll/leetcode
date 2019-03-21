@@ -161,7 +161,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3529.cpp" />
+    <ClCompile Include="3503.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="739-DailyTemperatures.cpp" />
@@ -171,6 +171,7 @@
     <ClCompile Include="77- Combinations.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
+    <ClCompile Include="789-EscapeTheGhosts.cpp" />
     <ClCompile Include="791-CustomSortString.cpp" />
     <ClCompile Include="797-AllPathsFromSourcetoTarget.cpp" />
     <ClCompile Include="804-UniqueMorseCodeWords.cpp" />
