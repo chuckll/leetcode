@@ -525,13 +525,25 @@
     <ClCompile Include="328-OddEvenLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3512.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="73-SetMatrixZeroes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="378-KthSmallestElementinaSortedMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="609-FindDuplicateFileinSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="897-IncreasingOrderSearchTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3484.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="788-RotatedDigits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="953-VerifyinganAlienDictionary.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

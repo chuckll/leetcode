@@ -154,6 +154,7 @@
     <ClCompile Include="575-DistributeCandies.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="59-SpiralMatrixII.cpp" />
+    <ClCompile Include="609-FindDuplicateFileinSystem.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
     <ClCompile Include="657-RobotReturntoOrigin.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
@@ -163,7 +164,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3512.cpp" />
+    <ClCompile Include="3484.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
@@ -174,6 +175,7 @@
     <ClCompile Include="77- Combinations.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
+    <ClCompile Include="788-RotatedDigits.cpp" />
     <ClCompile Include="789-EscapeTheGhosts.cpp" />
     <ClCompile Include="791-CustomSortString.cpp" />
     <ClCompile Include="797-AllPathsFromSourcetoTarget.cpp" />
@@ -196,6 +198,7 @@
     <ClCompile Include="890-FindandReplacePattern.cpp" />
     <ClCompile Include="893-GroupsofSpecial-EquivalentStrings.cpp" />
     <ClCompile Include="894-AllPossibleFullBinaryTrees.cpp" />
+    <ClCompile Include="897-IncreasingOrderSearchTree.cpp" />
     <ClCompile Include="9-PalindromeNumber.cpp" />
     <ClCompile Include="908-SmallestRangeI.cpp" />
     <ClCompile Include="921-MinimumAddtoMakeParenthesesValid.cpp" />
@@ -235,6 +238,7 @@
     <ClCompile Include="942-DIStringMatch.cpp" />
     <ClCompile Include="944-DeleteColumnstoMakeSorted.cpp" />
     <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp" />
+    <ClCompile Include="953-VerifyinganAlienDictionary.cpp" />
     <ClCompile Include="96-UniqueBinarySearchTrees.cpp" />
     <ClCompile Include="961-N-RepeatedElementinSize2NArray.cpp" />
     <ClCompile Include="965-UnivaluedBinaryTree.cpp" />
