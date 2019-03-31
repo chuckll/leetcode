@@ -123,6 +123,7 @@
     <ClCompile Include="338-CountingBits.cpp" />
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
+    <ClCompile Include="36-ValidSudoku.cpp" />
     <ClCompile Include="371-SumofTwoIntegers.cpp" />
     <ClCompile Include="378-KthSmallestElementinaSortedMatrix.cpp" />
     <ClCompile Include="39-CombinationSum.cpp" />
@@ -175,6 +176,7 @@
     <ClCompile Include="77- Combinations.cpp" />
     <ClCompile Include="78-Subsets.cpp" />
     <ClCompile Include="66-PlusOne.cpp" />
+    <ClCompile Include="784-LetterCasePermutation.cpp" />
     <ClCompile Include="788-RotatedDigits.cpp" />
     <ClCompile Include="789-EscapeTheGhosts.cpp" />
     <ClCompile Include="791-CustomSortString.cpp" />
