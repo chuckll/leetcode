@@ -537,9 +537,6 @@
     <ClCompile Include="897-IncreasingOrderSearchTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3484.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="788-RotatedDigits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -550,6 +547,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="784-LetterCasePermutation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3386.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="100-SameTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
