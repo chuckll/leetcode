@@ -112,6 +112,7 @@
     <ClCompile Include="24-SwapNodesinPairs.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="258- AddDigits.cpp" />
+    <ClCompile Include="268-MissingNumber.cpp" />
     <ClCompile Include="283-MoveZeroes.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
     <ClCompile Include="287-FindtheDuplicateNumber.cpp" />
@@ -166,10 +167,11 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3386.cpp" />
+    <ClCompile Include="3311.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
+    <ClCompile Include="733-FloodFill.cpp" />
     <ClCompile Include="739-DailyTemperatures.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />

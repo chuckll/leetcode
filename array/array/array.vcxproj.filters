@@ -549,10 +549,16 @@
     <ClCompile Include="784-LetterCasePermutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3386.cpp">
+    <ClCompile Include="100-SameTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3311.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="100-SameTree.cpp">
+    <ClCompile Include="268-MissingNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="733-FloodFill.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
