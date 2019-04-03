@@ -552,13 +552,19 @@
     <ClCompile Include="100-SameTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3311.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="268-MissingNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="733-FloodFill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="783-MinimumDistanceBetweenBSTNodes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3255.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1009-ComplementofBase10Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
