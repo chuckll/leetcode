@@ -564,14 +564,17 @@
     <ClCompile Include="1009-ComplementofBase10Integer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3186.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="892-SurfaceAreaof3DShapes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="122-BestTimetoBuyandSellStockII.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="427-ConstructQuadTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3169.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

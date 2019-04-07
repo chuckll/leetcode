@@ -132,6 +132,7 @@
     <ClCompile Include="378-KthSmallestElementinaSortedMatrix.cpp" />
     <ClCompile Include="39-CombinationSum.cpp" />
     <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
+    <ClCompile Include="427-ConstructQuadTree.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
     <ClCompile Include="447-NumberofBoomerangs.cpp" />
@@ -169,7 +170,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3186.cpp" />
+    <ClCompile Include="3169.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
