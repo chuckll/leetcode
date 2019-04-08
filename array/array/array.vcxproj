@@ -90,6 +90,7 @@
     <ClCompile Include="118-Pascal%27sTriangle.cpp" />
     <ClCompile Include="119-Pascal%27sTriangleII.cpp" />
     <ClCompile Include="12-IntegertoRoman.cpp" />
+    <ClCompile Include="121-BestTimetoBuyandSellStock.cpp" />
     <ClCompile Include="122-BestTimetoBuyandSellStockII.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="13-RomantoInteger.cpp" />
@@ -170,12 +171,13 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3169.cpp" />
+    <ClCompile Include="3142.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
     <ClCompile Include="733-FloodFill.cpp" />
     <ClCompile Include="739-DailyTemperatures.cpp" />
+    <ClCompile Include="748-ShortestCompletingWord.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
     <ClCompile Include="766-ToeplitzMatrix.cpp" />

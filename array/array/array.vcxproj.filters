@@ -573,8 +573,14 @@
     <ClCompile Include="427-ConstructQuadTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3169.cpp">
+    <ClCompile Include="3142.cpp">
       <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="748-ShortestCompletingWord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="121-BestTimetoBuyandSellStock.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
