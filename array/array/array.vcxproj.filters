@@ -573,13 +573,16 @@
     <ClCompile Include="427-ConstructQuadTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3142.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="748-ShortestCompletingWord.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="121-BestTimetoBuyandSellStock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3076.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="191-Numberof1Bits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

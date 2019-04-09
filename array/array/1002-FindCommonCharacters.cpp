@@ -1,70 +1,54 @@
 #include<stdio.h>
 #include<vector>
 #include<map>
+#include<iostream>
+#include<string>
+#include<sstream>
 using namespace std;
 
 
 class Solution {
 public:
     vector<string> commonChars(vector<string>& A) {
-		map<char,int> mp;
-		vector<string> res;
-		map<char,int>::iterator iter;
-		vector<char> deleteChar;
 		int n = A.size();
-		for(int i = 0; i < A[0].size(); i++)
+		vector<string> res;
+		string s = A[0], s2 = "";
+		vector<bool> isVisited(A[0].size(),false);
+		for(int i = 1; i < n; i++)
 		{
-			if(i == 0)
+			string f = A[i];
+			for(int j = 0; j < f.size(); j++)
 			{
-				mp.insert(pair<char,int>(A[0][i],1));
-			}else{
-				iter = mp.find(A[0][i]);
-				if(iter != mp.end())
+				char c = f[j];
+				for(int k = 0; k < s.size(); k++)
 				{
-					iter->second++;
-				}else{
-					mp.insert(pair<char,int>(A[0][i],1));
+					if(s[k] == c && isVisited[k] == false)
+					{
+						s2.append(1,c);
+						isVisited[k] = true;
+						break;
+					}
 				}
 			}
-		}
-		for(iter = mp.begin(); iter != mp.end(); iter++)
-		{
-			char c = iter->first;
-			int num = iter->second;
-			for(int i = 1; i < n; i++)
+			s = "";
+			s.assign(s2);
+			s2 = "";
+			for(int j = 0; j < s.size(); j++)
 			{
-				int number = 0;
-				for(int j = 0; j < A[i].size(); j++)
-				{
-					if(A[i][j] == c)
-						number++;
-				}
-				if(number != num)
-				{
-					deleteChar.push_back(c);
-					break;
-				}
+				isVisited[j] = false;
 			}
 		}
 
-		for(iter = mp.begin(); iter != mp.end(); iter++)
+		/// 将字符转换为字符串 不能用 字符+“” 的方式
+		for(int i = 0; i < s.size(); i++)
 		{
-			char c = iter->first;
-			bool isDelete = false;
-			for(int i = 0 ; i < deleteChar.size(); i++)
-			{
-				if(deleteChar[i] == c)
-					isDelete = true;
-			}
-			if(isDelete == false)
-			{
-				for(int j = 0; j < iter->second; j++)
-					res.push_back(iter->first+"");
-			}
+			stringstream str;    
+            str << s[i];
+			res.push_back(str.str());
 		}
 
 		return res;
-    }
+	}
 };
 
 

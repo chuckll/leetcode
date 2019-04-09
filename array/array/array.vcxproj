@@ -99,6 +99,7 @@
     <ClCompile Include="169-MajorityElement.cpp" />
     <ClCompile Include="171-ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="173-BinarySearchTreeIterator.cpp" />
+    <ClCompile Include="191-Numberof1Bits.cpp" />
     <ClCompile Include="199-BinaryTreeRightSideView.cpp" />
     <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="202-HappyNumber.cpp" />
@@ -171,7 +172,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="3142.cpp" />
+    <ClCompile Include="3076.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
