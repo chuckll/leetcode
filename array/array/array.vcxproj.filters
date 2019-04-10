@@ -585,5 +585,11 @@
     <ClCompile Include="191-Numberof1Bits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="453-MinimumMovestoEqualArrayElements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="653-TwoSumIV-InputisaBST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

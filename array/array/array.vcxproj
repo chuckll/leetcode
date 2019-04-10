@@ -139,6 +139,7 @@
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
     <ClCompile Include="447-NumberofBoomerangs.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
+    <ClCompile Include="453-MinimumMovestoEqualArrayElements.cpp" />
     <ClCompile Include="46- Permutation.cpp" />
     <ClCompile Include="461-HammingDistance.cpp" />
     <ClCompile Include="476-NumberComplement.cpp" />
@@ -164,6 +165,7 @@
     <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="609-FindDuplicateFileinSystem.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
+    <ClCompile Include="653-TwoSumIV-InputisaBST.cpp" />
     <ClCompile Include="657-RobotReturntoOrigin.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
     <ClCompile Include="677-MapSumPairs.cpp" />
