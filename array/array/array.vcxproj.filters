@@ -579,9 +579,6 @@
     <ClCompile Include="121-BestTimetoBuyandSellStock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3076.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="191-Numberof1Bits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -590,6 +587,15 @@
     </ClCompile>
     <ClCompile Include="653-TwoSumIV-InputisaBST.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="404-SumofLeftLeaves.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="860-LemonadeChange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2998.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
