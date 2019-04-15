@@ -594,10 +594,16 @@
     <ClCompile Include="860-LemonadeChange.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2951.cpp">
+    <ClCompile Include="690-EmployeeImportance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2963.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="690-EmployeeImportance.cpp">
+    <ClCompile Include="241-DifferentWaystoAddParentheses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="861- ScoreAfterFlippingMatrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -114,6 +114,7 @@
     <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="238-ProductofArrayExceptSelf.cpp" />
     <ClCompile Include="24-SwapNodesinPairs.cpp" />
+    <ClCompile Include="241-DifferentWaystoAddParentheses.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="258- AddDigits.cpp" />
     <ClCompile Include="268-MissingNumber.cpp" />
@@ -176,7 +177,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2951.cpp" />
+    <ClCompile Include="2963.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
@@ -205,6 +206,7 @@
     <ClCompile Include="832-FlippinganImage.cpp" />
     <ClCompile Include="852-PeakIndexinaMountainArray.cpp" />
     <ClCompile Include="860-LemonadeChange.cpp" />
+    <ClCompile Include="861- ScoreAfterFlippingMatrix.cpp" />
     <ClCompile Include="867-TransposeMatrix.cpp" />
     <ClCompile Include="868-BinaryGap.cpp" />
     <ClCompile Include="872-Leaf-SimilarTrees.cpp" />
