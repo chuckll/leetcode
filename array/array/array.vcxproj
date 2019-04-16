@@ -106,6 +106,7 @@
     <ClCompile Include="206-ReverseLinkedList.cpp" />
     <ClCompile Include="21-MergeTwoSortedLists.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
+    <ClCompile Include="216-CombinationSumIII.cpp" />
     <ClCompile Include="22-GenerateParentheses.cpp" />
     <ClCompile Include="225-ImplementStackusingQueues.cpp" />
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
@@ -177,7 +178,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2963.cpp" />
+    <ClCompile Include="2910.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
@@ -266,6 +267,7 @@
     <ClCompile Include="973-KClosestPointstoOrigin.cpp" />
     <ClCompile Include="976-LargestPerimeterTriangle.cpp" />
     <ClCompile Include="978-LongestTurbulentSubarray.cpp" />
+    <ClCompile Include="980-UniquePathsIII.cpp" />
     <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp" />
     <ClCompile Include="999-AvailableCapturesforRook.cpp" />
     <ClCompile Include="Source111.cpp" />

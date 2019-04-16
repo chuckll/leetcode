@@ -597,13 +597,19 @@
     <ClCompile Include="690-EmployeeImportance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2963.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="241-DifferentWaystoAddParentheses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="861- ScoreAfterFlippingMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2910.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="216-CombinationSumIII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="980-UniquePathsIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
