@@ -81,6 +81,7 @@
     <ClCompile Include="1008-ConstructBinarySearchTreefromPreorderTraversal.cpp" />
     <ClCompile Include="1009-ComplementofBase10Integer.cpp" />
     <ClCompile Include="102-BinaryTreeLevelOrderTraversal.cpp" />
+    <ClCompile Include="1021-RemoveOutermostParentheses.cpp" />
     <ClCompile Include="105-ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
     <ClCompile Include="106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp" />
     <ClCompile Include="107-BinaryTreeLevelOrderTraversalII.cpp" />
@@ -118,6 +119,7 @@
     <ClCompile Include="241-DifferentWaystoAddParentheses.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="258- AddDigits.cpp" />
+    <ClCompile Include="260-SingleNumberIII.cpp" />
     <ClCompile Include="268-MissingNumber.cpp" />
     <ClCompile Include="283-MoveZeroes.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
@@ -152,6 +154,7 @@
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="509-FibonacciNumber.cpp" />
     <ClCompile Include="513-FindBottomLeftTreeValue.cpp" />
+    <ClCompile Include="52- N-QueensII.cpp" />
     <ClCompile Include="520-DetectCapital.cpp" />
     <ClCompile Include="521-LongestUncommonSubsequenceI.cpp" />
     <ClCompile Include="530-MinimumAbsoluteDifferenceinBST.cpp" />
@@ -178,7 +181,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2910.cpp" />
+    <ClCompile Include="2825.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
@@ -267,6 +270,7 @@
     <ClCompile Include="973-KClosestPointstoOrigin.cpp" />
     <ClCompile Include="976-LargestPerimeterTriangle.cpp" />
     <ClCompile Include="978-LongestTurbulentSubarray.cpp" />
+    <ClCompile Include="979-DistributeCoinsinBinaryTree.cpp" />
     <ClCompile Include="980-UniquePathsIII.cpp" />
     <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp" />
     <ClCompile Include="999-AvailableCapturesforRook.cpp" />
