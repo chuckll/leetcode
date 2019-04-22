@@ -615,13 +615,22 @@
     <ClCompile Include="979-DistributeCoinsinBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2825.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="1021-RemoveOutermostParentheses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="260-SingleNumberIII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="419-BattleshipsinaBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="877-StoneGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2784.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="137-SingleNumberII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
