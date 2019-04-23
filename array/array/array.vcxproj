@@ -95,6 +95,7 @@
     <ClCompile Include="122-BestTimetoBuyandSellStockII.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="13-RomantoInteger.cpp" />
+    <ClCompile Include="131-PalindromePartitioning.cpp" />
     <ClCompile Include="137-SingleNumberII.cpp" />
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
     <ClCompile Include="15-3Sum.cpp" />
@@ -173,6 +174,7 @@
     <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="609-FindDuplicateFileinSystem.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
+    <ClCompile Include="64-MinimumPathSum.cpp" />
     <ClCompile Include="653-TwoSumIV-InputisaBST.cpp" />
     <ClCompile Include="657-RobotReturntoOrigin.cpp" />
     <ClCompile Include="669-TrimaBinarySearchTree.cpp" />
@@ -183,7 +185,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2784.cpp" />
+    <ClCompile Include="2733.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
