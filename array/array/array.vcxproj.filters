@@ -630,13 +630,19 @@
     <ClCompile Include="137-SingleNumberII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2733.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="131-PalindromePartitioning.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="64-MinimumPathSum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2734.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="148-SortList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="120-Triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
