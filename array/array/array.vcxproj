@@ -82,6 +82,7 @@
     <ClCompile Include="1009-ComplementofBase10Integer.cpp" />
     <ClCompile Include="102-BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="1021-RemoveOutermostParentheses.cpp" />
+    <ClCompile Include="1025-DivisorGame.cpp" />
     <ClCompile Include="105-ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
     <ClCompile Include="106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp" />
     <ClCompile Include="107-BinaryTreeLevelOrderTraversalII.cpp" />
@@ -109,6 +110,7 @@
     <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="202-HappyNumber.cpp" />
     <ClCompile Include="206-ReverseLinkedList.cpp" />
+    <ClCompile Include="208-ImplementTrie(PrefixTree).cpp" />
     <ClCompile Include="21-MergeTwoSortedLists.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
     <ClCompile Include="216-CombinationSumIII.cpp" />
@@ -135,6 +137,7 @@
     <ClCompile Include="328-OddEvenLinkedList.cpp" />
     <ClCompile Include="337-HouseRobberIII.cpp" />
     <ClCompile Include="338-CountingBits.cpp" />
+    <ClCompile Include="341-FlattenNestedListIterator.cpp" />
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="36-ValidSudoku.cpp" />
@@ -187,7 +190,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2765.cpp" />
+    <ClCompile Include="2710.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
