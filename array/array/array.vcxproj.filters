@@ -642,9 +642,6 @@
     <ClCompile Include="120-Triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2710.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="1025-DivisorGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -652,6 +649,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="208-ImplementTrie(PrefixTree).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2645.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="986-IntervalListIntersections.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
