@@ -83,6 +83,7 @@
     <ClCompile Include="102-BinaryTreeLevelOrderTraversal.cpp" />
     <ClCompile Include="1021-RemoveOutermostParentheses.cpp" />
     <ClCompile Include="1025-DivisorGame.cpp" />
+    <ClCompile Include="1028-RecoveraTreeFromPreorderTraversal.cpp" />
     <ClCompile Include="105-ConstructBinaryTreefromPreorderandInorderTraversal.cpp" />
     <ClCompile Include="106-ConstructBinaryTreefromInorderandPostorderTraversal.cpp" />
     <ClCompile Include="107-BinaryTreeLevelOrderTraversalII.cpp" />

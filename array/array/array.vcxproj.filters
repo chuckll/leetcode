@@ -657,5 +657,8 @@
     <ClCompile Include="986-IntervalListIntersections.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1028-RecoveraTreeFromPreorderTraversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
