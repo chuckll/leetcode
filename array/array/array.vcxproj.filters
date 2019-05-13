@@ -651,13 +651,19 @@
     <ClCompile Include="208-ImplementTrie(PrefixTree).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2645.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="986-IntervalListIntersections.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="1028-RecoveraTreeFromPreorderTraversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="386-LexicographicalNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2608.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="885-SpiralMatrixIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

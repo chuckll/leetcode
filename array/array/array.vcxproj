@@ -144,6 +144,7 @@
     <ClCompile Include="36-ValidSudoku.cpp" />
     <ClCompile Include="371-SumofTwoIntegers.cpp" />
     <ClCompile Include="378-KthSmallestElementinaSortedMatrix.cpp" />
+    <ClCompile Include="386-LexicographicalNumbers.cpp" />
     <ClCompile Include="39-CombinationSum.cpp" />
     <ClCompile Include="404-SumofLeftLeaves.cpp" />
     <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
@@ -191,7 +192,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2645.cpp" />
+    <ClCompile Include="2608.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
@@ -228,6 +229,7 @@
     <ClCompile Include="877-StoneGame.cpp" />
     <ClCompile Include="883-ProjectionAreaof3DShapes.cpp" />
     <ClCompile Include="884-UncommonWordsfromTwoSentences.cpp" />
+    <ClCompile Include="885-SpiralMatrixIII.cpp" />
     <ClCompile Include="89-GrayCode.cpp" />
     <ClCompile Include="890-FindandReplacePattern.cpp" />
     <ClCompile Include="892-SurfaceAreaof3DShapes.cpp" />
