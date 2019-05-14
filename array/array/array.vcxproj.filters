@@ -666,5 +666,8 @@
     <ClCompile Include="885-SpiralMatrixIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="889-ConstructBinaryTreefromPreorderandPostorderTraversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
