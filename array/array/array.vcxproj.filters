@@ -660,13 +660,16 @@
     <ClCompile Include="386-LexicographicalNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2608.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="885-SpiralMatrixIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="889-ConstructBinaryTreefromPreorderandPostorderTraversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2571.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="49-GroupAnagrams.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

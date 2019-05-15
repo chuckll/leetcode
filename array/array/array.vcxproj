@@ -160,6 +160,7 @@
     <ClCompile Include="476-NumberComplement.cpp" />
     <ClCompile Include="48-RotateImage.cpp" />
     <ClCompile Include="485-MaxConsecutiveOnes.cpp" />
+    <ClCompile Include="49-GroupAnagrams.cpp" />
     <ClCompile Include="496-NextGreaterElementI.cpp" />
     <ClCompile Include="508-MostFrequentSubtreeSum.cpp" />
     <ClCompile Include="509-FibonacciNumber.cpp" />
@@ -192,7 +193,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2608.cpp" />
+    <ClCompile Include="2571.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
