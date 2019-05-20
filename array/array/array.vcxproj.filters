@@ -666,10 +666,16 @@
     <ClCompile Include="889-ConstructBinaryTreefromPreorderandPostorderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2571.cpp">
+    <ClCompile Include="49-GroupAnagrams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2605.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
-    <ClCompile Include="49-GroupAnagrams.cpp">
+    <ClCompile Include="951-FlipEquivalentBinaryTrees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="912-SortanArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
