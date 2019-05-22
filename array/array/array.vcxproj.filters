@@ -678,5 +678,11 @@
     <ClCompile Include="912-SortanArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="40-CombinationSumII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="113-PathSumII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
