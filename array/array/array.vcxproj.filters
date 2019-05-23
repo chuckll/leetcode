@@ -669,9 +669,6 @@
     <ClCompile Include="49-GroupAnagrams.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2605.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="951-FlipEquivalentBinaryTrees.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -682,6 +679,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="113-PathSumII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2550.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="95-UniqueBinarySearchTreesII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
