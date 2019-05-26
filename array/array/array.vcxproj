@@ -121,6 +121,7 @@
     <ClCompile Include="230-KthSmallestElementinaBST.cpp" />
     <ClCompile Include="232-ImplementQueueusingStacks.cpp" />
     <ClCompile Include="235-LowestCommonAncestorofaBinarySearchTree.cpp" />
+    <ClCompile Include="236-LowestCommonAncestorofaBinaryTree.cpp" />
     <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="238-ProductofArrayExceptSelf.cpp" />
     <ClCompile Include="24-SwapNodesinPairs.cpp" />
@@ -183,6 +184,7 @@
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="609-FindDuplicateFileinSystem.cpp" />
+    <ClCompile Include="62-UniquePaths.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
     <ClCompile Include="64-MinimumPathSum.cpp" />
     <ClCompile Include="653-TwoSumIV-InputisaBST.cpp" />

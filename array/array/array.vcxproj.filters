@@ -687,5 +687,11 @@
     <ClCompile Include="95-UniqueBinarySearchTreesII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="236-LowestCommonAncestorofaBinaryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="62-UniquePaths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
