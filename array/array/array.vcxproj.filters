@@ -681,9 +681,6 @@
     <ClCompile Include="113-PathSumII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2550.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="95-UniqueBinarySearchTreesII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -691,6 +688,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="62-UniquePaths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2501.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-二叉树的深度.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-二叉树的镜像.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -197,7 +197,7 @@
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
-    <ClCompile Include="2550.cpp" />
+    <ClCompile Include="2501.cpp" />
     <ClCompile Include="706-DesignHashMap.cpp" />
     <ClCompile Include="728-SelfDividingNumbers.cpp" />
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
@@ -301,6 +301,8 @@
     <ClCompile Include="Source222.cpp" />
     <ClCompile Include="Source333.cpp" />
     <ClCompile Include="Source444.cpp" />
+    <ClCompile Include="剑-二叉树的深度.cpp" />
+    <ClCompile Include="剑-二叉树的镜像.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
