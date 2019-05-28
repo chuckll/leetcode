@@ -699,5 +699,11 @@
     <ClCompile Include="剑-二叉树的镜像.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-用两个栈实现队列.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-连续子数组的最大和.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
