@@ -726,5 +726,11 @@
     <ClCompile Include="剑-字符流中第一个不重复的字符.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-左旋字符串.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-对称的二叉树.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
