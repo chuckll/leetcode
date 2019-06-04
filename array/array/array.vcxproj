@@ -306,9 +306,12 @@
     <ClCompile Include="剑-二叉树的镜像.cpp" />
     <ClCompile Include="剑-包含min函数的栈.cpp" />
     <ClCompile Include="剑-字符流中第一个不重复的字符.cpp" />
+    <ClCompile Include="剑-孩子们的游戏(圆圈中最后剩下的数).cpp" />
     <ClCompile Include="剑-对称的二叉树.cpp" />
     <ClCompile Include="剑-左旋字符串.cpp" />
     <ClCompile Include="剑-平衡二叉树.cpp" />
+    <ClCompile Include="剑-把二叉树打印成多行.cpp" />
+    <ClCompile Include="剑-数字在排序数组中出现的次数.cpp" />
     <ClCompile Include="剑-整数中1出现的次数.cpp" />
     <ClCompile Include="剑-用两个栈实现队列.cpp" />
     <ClCompile Include="剑-矩形覆盖.cpp" />
