@@ -741,5 +741,14 @@
     <ClCompile Include="剑-孩子们的游戏(圆圈中最后剩下的数).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-二叉树的下一个结点.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-数组中只出现一次的数字.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-栈的压入、弹出序列.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
