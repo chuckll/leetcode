@@ -750,5 +750,11 @@
     <ClCompile Include="剑-栈的压入、弹出序列.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-和为S的两个数字.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-数组中重复的数字.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
