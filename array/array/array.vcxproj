@@ -302,6 +302,7 @@
     <ClCompile Include="Source333.cpp" />
     <ClCompile Include="Source444.cpp" />
     <ClCompile Include="剑-两个链表的第一个公共结点.cpp" />
+    <ClCompile Include="剑-二叉搜索树与双向链表.cpp" />
     <ClCompile Include="剑-二叉树的下一个结点.cpp" />
     <ClCompile Include="剑-二叉树的深度.cpp" />
     <ClCompile Include="剑-二叉树的镜像.cpp" />
@@ -314,6 +315,7 @@
     <ClCompile Include="剑-平衡二叉树.cpp" />
     <ClCompile Include="剑-把二叉树打印成多行.cpp" />
     <ClCompile Include="剑-数字在排序数组中出现的次数.cpp" />
+    <ClCompile Include="剑-数组中出现次数超过一半的数字.cpp" />
     <ClCompile Include="剑-数组中只出现一次的数字.cpp" />
     <ClCompile Include="剑-数组中重复的数字.cpp" />
     <ClCompile Include="剑-整数中1出现的次数.cpp" />
