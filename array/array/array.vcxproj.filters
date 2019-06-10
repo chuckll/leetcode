@@ -762,5 +762,14 @@
     <ClCompile Include="剑-数组中出现次数超过一半的数字.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑—合并两个排序的链表.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-把数组排成最小的数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-把字符串转换成整数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
