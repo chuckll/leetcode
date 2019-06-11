@@ -771,5 +771,11 @@
     <ClCompile Include="剑-把字符串转换成整数.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-从上往下打印二叉树.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-表示数值的字符串.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
