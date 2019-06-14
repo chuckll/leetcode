@@ -789,5 +789,11 @@
     <ClCompile Include="剑-数据流中的中位数.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-扑克牌顺子.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-滑动窗口的最大值.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

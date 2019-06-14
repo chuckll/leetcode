@@ -316,6 +316,7 @@
     <ClCompile Include="剑-对称的二叉树.cpp" />
     <ClCompile Include="剑-左旋字符串.cpp" />
     <ClCompile Include="剑-平衡二叉树.cpp" />
+    <ClCompile Include="剑-扑克牌顺子.cpp" />
     <ClCompile Include="剑-把二叉树打印成多行.cpp" />
     <ClCompile Include="剑-把字符串转换成整数.cpp" />
     <ClCompile Include="剑-把数组排成最小的数.cpp" />
@@ -326,6 +327,7 @@
     <ClCompile Include="剑-数组中重复的数字.cpp" />
     <ClCompile Include="剑-整数中1出现的次数.cpp" />
     <ClCompile Include="剑-栈的压入、弹出序列.cpp" />
+    <ClCompile Include="剑-滑动窗口的最大值.cpp" />
     <ClCompile Include="剑-用两个栈实现队列.cpp" />
     <ClCompile Include="剑-矩形覆盖.cpp" />
     <ClCompile Include="剑-第一个只出现一次的字符.cpp" />
