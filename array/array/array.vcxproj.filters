@@ -795,5 +795,11 @@
     <ClCompile Include="剑-滑动窗口的最大值.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-二叉搜索树的第k个结点.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-二叉搜索树的后序遍历序列.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
