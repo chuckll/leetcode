@@ -9,6 +9,9 @@ using namespace std;
 
 class Solution {
 public:
+	const static int MAXN = 100;
+	int isVisited[MAXN][MAXN] = {0};
+
     int movingCount(int threshold, int rows, int cols)
     {
         int count = 0;
@@ -21,6 +24,9 @@ public:
 	{
 		if(x >= cols || y >= rows || x < 0 || y < 0)
 		    return 0;
+		if(isVisited[x][y] == 1)
+			return 0;
+		isVisited[x][y] = 1;
 		int sum = 0;
         int temp = x;
 	    while(temp)
