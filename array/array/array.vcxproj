@@ -311,10 +311,12 @@
     <ClCompile Include="剑-二叉树的深度.cpp" />
     <ClCompile Include="剑-二叉树的镜像.cpp" />
     <ClCompile Include="剑-从上往下打印二叉树.cpp" />
+    <ClCompile Include="剑-删除链表中重复的结点.cpp" />
     <ClCompile Include="剑-包含min函数的栈.cpp" />
     <ClCompile Include="剑-和为S的两个数字.cpp" />
     <ClCompile Include="剑-和为S的连续正数序列.cpp" />
     <ClCompile Include="剑-复杂链表的复制.cpp" />
+    <ClCompile Include="剑-字符串的排列.cpp" />
     <ClCompile Include="剑-字符流中第一个不重复的字符.cpp" />
     <ClCompile Include="剑-孩子们的游戏(圆圈中最后剩下的数).cpp" />
     <ClCompile Include="剑-对称的二叉树.cpp" />
