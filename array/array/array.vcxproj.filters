@@ -828,5 +828,8 @@
     <ClCompile Include="剑-字符串的排列.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-翻转单词顺序列.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
