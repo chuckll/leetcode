@@ -338,6 +338,7 @@
     <ClCompile Include="剑-机器人的运动范围.cpp" />
     <ClCompile Include="剑-栈的压入、弹出序列.cpp" />
     <ClCompile Include="剑-树的子结构.cpp" />
+    <ClCompile Include="剑-正则表达式匹配.cpp" />
     <ClCompile Include="剑-滑动窗口的最大值.cpp" />
     <ClCompile Include="剑-用两个栈实现队列.cpp" />
     <ClCompile Include="剑-矩形覆盖.cpp" />
