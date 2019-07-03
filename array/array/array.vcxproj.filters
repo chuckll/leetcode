@@ -834,5 +834,14 @@
     <ClCompile Include="剑-正则表达式匹配.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑-矩阵中的路径.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="167-TwoSumII-Inputarrayissorted.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="633-SumofSquareNumbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
