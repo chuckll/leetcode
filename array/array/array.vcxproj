@@ -351,6 +351,7 @@
     <ClCompile Include="剑-连续子数组的最大和.cpp" />
     <ClCompile Include="剑-链表中环的入口.cpp" />
     <ClCompile Include="剑—合并两个排序的链表.cpp" />
+    <ClCompile Include="牛牛找工作.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
