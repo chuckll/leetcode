@@ -762,9 +762,6 @@
     <ClCompile Include="剑-数组中出现次数超过一半的数字.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="剑—合并两个排序的链表.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="剑-把数组排成最小的数.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -844,6 +841,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="牛牛找工作.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-二叉树的镜像.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑-合并两个排序的链表.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-链表中环的入口结点.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
