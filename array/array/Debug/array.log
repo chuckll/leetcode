@@ -1,48 +1,29 @@
-﻿Build started 2019/6/25 16:10:07.
+﻿Build started 2019/7/11 18:50:56.
      1>Project "E:\leetcode\array\array\array.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "100-SameTree.cpp" "1002-FindCommonCharacters.cpp" "1009-ComplementofBase10Integer.cpp" "1021-RemoveOutermostParentheses.cpp" "1025-DivisorGame.cpp" "1028-RecoveraTreeFromPreorderTraversal.cpp" "113-PathSumII.cpp" "12-IntegertoRoman.cpp" "120-Triangle.cpp" "121-BestTimetoBuyandSellStock.cpp" "122-BestTimetoBuyandSellStockII.cpp" "131-PalindromePartitioning.cpp" "137-SingleNumberII.cpp" "148-SortList.cpp" "191-Numberof1Bits.cpp" "208-ImplementTrie(PrefixTree).cpp" "216-CombinationSumIII.cpp" "235-LowestCommonAncestorofaBinarySearchTree.cpp" "236-LowestCommonAncestorofaBinaryTree.cpp" "241-DifferentWaystoAddParentheses.cpp" "260-SingleNumberIII.cpp" "268-MissingNumber.cpp" "328-OddEvenLinkedList.cpp" "341-FlattenNestedListIterator.cpp" "36-ValidSudoku.cpp" "378-KthSmallestElementinaSortedMatrix.cpp" "386-LexicographicalNumbers.cpp" "40-CombinationSumII.cpp" "404-SumofLeftLeaves.cpp" "419-BattleshipsinaBoard.cpp" "427-ConstructQuadTree.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "453-MinimumMovestoEqualArrayElements.cpp" "46- Permutation.cpp" "49-GroupAnagrams.cpp" "52- N-QueensII.cpp" "547-FriendCircles.cpp" "609-FindDuplicateFileinSystem.cpp" "62-UniquePaths.cpp" "64-MinimumPathSum.cpp" "653-TwoSumIV-InputisaBST.cpp" "677-MapSumPairs.cpp" "690-EmployeeImportance.cpp" 2501.cpp "73-SetMatrixZeroes.cpp" "733-FloodFill.cpp" "748-ShortestCompletingWord.cpp" "783-MinimumDistanceBetweenBSTNodes.cpp" "784-LetterCasePermutation.cpp" "788-RotatedDigits.cpp" "860-LemonadeChange.cpp" "861- ScoreAfterFlippingMatrix.cpp" "877-StoneGame.cpp" "885-SpiralMatrixIII.cpp" "889-ConstructBinaryTreefromPreorderandPostorderTraversal.cpp" "892-SurfaceAreaof3DShapes.cpp" "897-IncreasingOrderSearchTree.cpp" "912-SortanArray.cpp" "95-UniqueBinarySearchTreesII.cpp" "951-FlipEquivalentBinaryTrees.cpp" "953-VerifyinganAlienDictionary.cpp" "979-DistributeCoinsinBinaryTree.cpp" "980-UniquePathsIII.cpp" "986-IntervalListIntersections.cpp" "剑-丑数.cpp" "剑-两个链表的第一个公共结点.cpp" "剑-二叉搜索树与双向链表.cpp" "剑-二叉搜索树的后序遍历序列.cpp" "剑-二叉搜索树的第k个结点.cpp" "剑-二叉树中和为某一值的路径.cpp" "剑-二叉树的下一个结点.cpp" "剑-二叉树的深度.cpp" "剑-二叉树的镜像.cpp" "剑-从上往下打印二叉树.cpp" "剑-删除链表中重复的结点.cpp" "剑-包含min函数的栈.cpp" "剑-和为S的两个数字.cpp" "剑-和为S的连续正数序列.cpp" "剑-复杂链表的复制.cpp" "剑-字符串的排列.cpp" "剑-字符流中第一个不重复的字符.cpp" "剑-孩子们的游戏(圆圈中最后剩下的数).cpp" "剑-对称的二叉树.cpp" "剑-左旋字符串.cpp" "剑-平衡二叉树.cpp" "剑-序列化二叉树.cpp" "剑-扑克牌顺子.cpp" "剑-把二叉树打印成多行.cpp" "剑-把字符串转换成整数.cpp" "剑-把数组排成最小的数.cpp" "剑-按之字形顺序打印二叉树.cpp" "剑-数字在排序数组中出现的次数.cpp" "剑-数据流中的中位数.cpp" "剑-数组中出现次数超过一半的数字.cpp" "剑-数组中只出现一次的数字.cpp" "剑-数组中重复的数字.cpp" "剑-整数中1出现的次数.cpp" "剑-最小的K个数.cpp" "剑-机器人的运动范围.cpp" "剑-栈的压入、弹出序列.cpp" "剑-树的子结构.cpp" "剑-滑动窗口的最大值.cpp" "剑-用两个栈实现队列.cpp" "剑-矩形覆盖.cpp" "剑-第一个只出现一次的字符.cpp" "剑-翻转单词顺序列.cpp" "剑-表示数值的字符串.cpp" "剑-连续子数组的最大和.cpp" "剑-链表中环的入口.cpp" "剑—合并两个排序的链表.cpp"
-         剑—合并两个排序的链表.cpp
-         剑-链表中环的入口.cpp
-         剑-连续子数组的最大和.cpp
-         剑-表示数值的字符串.cpp
-     1>e:\leetcode\array\array\剑-表示数值的字符串.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "167-TwoSumII-Inputarrayissorted.cpp" "235-LowestCommonAncestorofaBinarySearchTree.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "46- Permutation.cpp" "49-GroupAnagrams.cpp" "547-FriendCircles.cpp" "609-FindDuplicateFileinSystem.cpp" "633-SumofSquareNumbers.cpp" "677-MapSumPairs.cpp" "剑-二叉搜索树的第k个结点.cpp" "剑-字符串的排列.cpp" "剑-序列化二叉树.cpp" "剑-机器人的运动范围.cpp" "剑-正则表达式匹配.cpp" "剑-矩阵中的路径.cpp" "剑-翻转单词顺序列.cpp" "剑2-二叉树的镜像.cpp" "剑-合并两个排序的链表.cpp" "剑2-删除链表中重复的结点.cpp" "剑2-链表中环的入口结点.cpp" "牛牛找工作.cpp"
+         牛牛找工作.cpp
+     1>e:\leetcode\array\array\牛牛找工作.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\leetcode\array\array\牛牛找工作.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\leetcode\array\array\牛牛找工作.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>e:\leetcode\array\array\牛牛找工作.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\牛牛找工作.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+         剑2-链表中环的入口结点.cpp
+         剑2-删除链表中重复的结点.cpp
+         剑-合并两个排序的链表.cpp
+         剑2-二叉树的镜像.cpp
          剑-翻转单词顺序列.cpp
-     1>e:\leetcode\array\array\剑-翻转单词顺序列.cpp(15): warning C4018: '<' : signed/unsigned mismatch
-         剑-第一个只出现一次的字符.cpp
-         剑-矩形覆盖.cpp
-         剑-用两个栈实现队列.cpp
-         剑-滑动窗口的最大值.cpp
-     1>e:\leetcode\array\array\剑-滑动窗口的最大值.cpp(25): warning C4018: '<' : signed/unsigned mismatch
-         剑-树的子结构.cpp
-         剑-栈的压入、弹出序列.cpp
-     1>e:\leetcode\array\array\剑-栈的压入、弹出序列.cpp(12): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\剑-栈的压入、弹出序列.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\剑-翻转单词顺序列.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+         剑-矩阵中的路径.cpp
+         剑-正则表达式匹配.cpp
          剑-机器人的运动范围.cpp
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(13): error C2059: syntax error : '{'
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(13): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(27): error C2065: 'isVisited' : undeclared identifier
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(29): error C2065: 'isVisited' : undeclared identifier
-         剑-最小的K个数.cpp
-     1>e:\leetcode\array\array\剑-最小的k个数.cpp(12): warning C4018: '>=' : signed/unsigned mismatch
-         剑-整数中1出现的次数.cpp
-         剑-数组中重复的数字.cpp
-         剑-数组中只出现一次的数字.cpp
-     1>e:\leetcode\array\array\剑-数组中只出现一次的数字.cpp(14): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\剑-数组中只出现一次的数字.cpp(27): warning C4018: '<' : signed/unsigned mismatch
-         剑-数组中出现次数超过一半的数字.cpp
-         剑-数据流中的中位数.cpp
-         剑-数字在排序数组中出现的次数.cpp
-         剑-按之字形顺序打印二叉树.cpp
-         Generating Code...
-         Compiling...
-         剑-把数组排成最小的数.cpp
-     1>e:\leetcode\array\array\剑-把数组排成最小的数.cpp(29): warning C4018: '<' : signed/unsigned mismatch
-         剑-把字符串转换成整数.cpp
-     1>e:\leetcode\array\array\剑-把字符串转换成整数.cpp(31): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
-         剑-把二叉树打印成多行.cpp
-         剑-扑克牌顺子.cpp
-     1>e:\leetcode\array\array\剑-扑克牌顺子.cpp(17): warning C4018: '<' : signed/unsigned mismatch
          剑-序列化二叉树.cpp
      1>e:\leetcode\array\array\剑-序列化二叉树.cpp(45): error C3867: 'std::basic_string<_Elem,_Traits,_Alloc>::c_str': function call missing argument list; use '&std::basic_string<_Elem,_Traits,_Alloc>::c_str' to create a pointer to member
                  with
@@ -59,76 +40,9 @@
                      _Alloc=std::allocator<char>
                  ]
                  There is no context in which this conversion is possible
-         剑-平衡二叉树.cpp
-         剑-左旋字符串.cpp
-         剑-对称的二叉树.cpp
-         剑-孩子们的游戏(圆圈中最后剩下的数).cpp
-         剑-字符流中第一个不重复的字符.cpp
-     1>e:\leetcode\array\array\剑-字符流中第一个不重复的字符.cpp(23): warning C4018: '<' : signed/unsigned mismatch
          剑-字符串的排列.cpp
-     1>e:\leetcode\array\array\剑-字符串的排列.cpp(35): warning C4018: '<' : signed/unsigned mismatch
-         剑-复杂链表的复制.cpp
-         剑-和为S的连续正数序列.cpp
-         剑-和为S的两个数字.cpp
-         剑-包含min函数的栈.cpp
-         剑-删除链表中重复的结点.cpp
-         剑-从上往下打印二叉树.cpp
-         剑-二叉树的镜像.cpp
-         剑-二叉树的深度.cpp
-         剑-二叉树的下一个结点.cpp
-     1>e:\leetcode\array\array\剑-二叉树的下一个结点.cpp(34): warning C4018: '<' : signed/unsigned mismatch
-         Generating Code...
-         Compiling...
-         剑-二叉树中和为某一值的路径.cpp
          剑-二叉搜索树的第k个结点.cpp
      1>e:\leetcode\array\array\剑-二叉搜索树的第k个结点.cpp(16): error C2864: 'Solution::index' : only static const integral data members can be initialized within a class
-         剑-二叉搜索树的后序遍历序列.cpp
-         剑-二叉搜索树与双向链表.cpp
-         剑-两个链表的第一个公共结点.cpp
-         剑-丑数.cpp
-         986-IntervalListIntersections.cpp
-     1>e:\leetcode\array\array\986-intervallistintersections.cpp(20): warning C4018: '<' : signed/unsigned mismatch
-         980-UniquePathsIII.cpp
-     1>e:\leetcode\array\array\980-uniquepathsiii.cpp(42): warning C4018: '>=' : signed/unsigned mismatch
-         979-DistributeCoinsinBinaryTree.cpp
-         953-VerifyinganAlienDictionary.cpp
-     1>e:\leetcode\array\array\953-verifyinganaliendictionary.cpp(12): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\953-verifyinganaliendictionary.cpp(22): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\953-verifyinganaliendictionary.cpp(34): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\953-verifyinganaliendictionary.cpp(46): warning C4018: '<' : signed/unsigned mismatch
-         951-FlipEquivalentBinaryTrees.cpp
-         95-UniqueBinarySearchTreesII.cpp
-         912-SortanArray.cpp
-         897-IncreasingOrderSearchTree.cpp
-     1>e:\leetcode\array\array\897-increasingordersearchtree.cpp(30): warning C4018: '<' : signed/unsigned mismatch
-         892-SurfaceAreaof3DShapes.cpp
-         889-ConstructBinaryTreefromPreorderandPostorderTraversal.cpp
-         885-SpiralMatrixIII.cpp
-     1>e:\leetcode\array\array\885-spiralmatrixiii.cpp(26): warning C4018: '<' : signed/unsigned mismatch
-         877-StoneGame.cpp
-         861- ScoreAfterFlippingMatrix.cpp
-     1>e:\leetcode\array\array\861- scoreafterflippingmatrix.cpp(52): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
-         860-LemonadeChange.cpp
-         Generating Code...
-         Compiling...
-         788-RotatedDigits.cpp
-         784-LetterCasePermutation.cpp
-         783-MinimumDistanceBetweenBSTNodes.cpp
-     1>e:\leetcode\array\array\783-minimumdistancebetweenbstnodes.cpp(35): warning C4018: '<' : signed/unsigned mismatch
-         748-ShortestCompletingWord.cpp
-     1>e:\leetcode\array\array\748-shortestcompletingword.cpp(30): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\748-shortestcompletingword.cpp(35): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\748-shortestcompletingword.cpp(39): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\748-shortestcompletingword.cpp(63): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\748-shortestcompletingword.cpp(65): warning C4018: '<' : signed/unsigned mismatch
-         733-FloodFill.cpp
-     1>e:\leetcode\array\array\733-floodfill.cpp(29): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\733-floodfill.cpp(37): warning C4018: '<' : signed/unsigned mismatch
-         73-SetMatrixZeroes.cpp
-         2501.cpp
-         690-EmployeeImportance.cpp
-     1>e:\leetcode\array\array\690-employeeimportance.cpp(30): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\690-employeeimportance.cpp(40): warning C4018: '<' : signed/unsigned mismatch
          677-MapSumPairs.cpp
      1>d:\program files (x86)\microsoft visual studio 11.0\vc\include\xstddef(180): error C2784: 'bool std::operator <(const std::_Tree<_Traits> &,const std::_Tree<_Traits> &)' : could not deduce template argument for 'const std::_Tree<_Traits> &' from 'const std::string'
                  d:\program files (x86)\microsoft visual studio 11.0\vc\include\xtree(2245) : see declaration of 'std::operator <'
@@ -187,10 +101,8 @@
                  d:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(232) : see declaration of 'std::operator <'
                  d:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(232) : see declaration of 'std::operator <'
      1>d:\program files (x86)\microsoft visual studio 11.0\vc\include\xstddef(180): error C2676: binary '<' : 'const std::string' does not define this operator or a conversion to a type acceptable to the predefined operator
-         653-TwoSumIV-InputisaBST.cpp
-     1>e:\leetcode\array\array\653-twosumiv-inputisabst.cpp(18): warning C4018: '<' : signed/unsigned mismatch
-         64-MinimumPathSum.cpp
-         62-UniquePaths.cpp
+         633-SumofSquareNumbers.cpp
+     1>e:\leetcode\array\array\633-sumofsquarenumbers.cpp(11): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
          609-FindDuplicateFileinSystem.cpp
      1>e:\leetcode\array\array\609-findduplicatefileinsystem.cpp(14): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\609-findduplicatefileinsystem.cpp(19): warning C4018: '<' : signed/unsigned mismatch
@@ -205,7 +117,6 @@
      1>e:\leetcode\array\array\547-friendcircles.cpp(10): error C2065: 'N' : undeclared identifier
      1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2327: 'Solution::N' : is not a type name, static, or enumerator
      1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2065: 'N' : undeclared identifier
-         52- N-QueensII.cpp
          49-GroupAnagrams.cpp
      1>e:\leetcode\array\array\49-groupanagrams.cpp(14): warning C4018: '<' : signed/unsigned mismatch
      1>d:\program files (x86)\microsoft visual studio 11.0\vc\include\xstddef(180): error C2784: 'bool std::operator <(const std::_Tree<_Traits> &,const std::_Tree<_Traits> &)' : could not deduce template argument for 'const std::_Tree<_Traits> &' from 'const std::string'
@@ -273,89 +184,21 @@
          46- Permutation.cpp
      1>e:\leetcode\array\array\46- permutation.cpp(40): error C2011: 'Solution' : 'class' type redefinition
                  e:\leetcode\array\array\46- permutation.cpp(6) : see declaration of 'Solution'
-         453-MinimumMovestoEqualArrayElements.cpp
          429-N-aryTreeLevelOrderTraversal.cpp
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(8): error C2864: 'Node::val' : only static const integral data members can be initialized within a class
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(38): warning C4018: '<' : signed/unsigned mismatch
-         427-ConstructQuadTree.cpp
-     1>e:\leetcode\array\array\427-constructquadtree.cpp(54): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
-         Generating Code...
-         Compiling...
-         419-BattleshipsinaBoard.cpp
-     1>e:\leetcode\array\array\419-battleshipsinaboard.cpp(14): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\419-battleshipsinaboard.cpp(16): warning C4018: '<' : signed/unsigned mismatch
-         404-SumofLeftLeaves.cpp
-         40-CombinationSumII.cpp
-     1>e:\leetcode\array\array\40-combinationsumii.cpp(24): warning C4018: '<' : signed/unsigned mismatch
-         386-LexicographicalNumbers.cpp
-     1>e:\leetcode\array\array\386-lexicographicalnumbers.cpp(19): warning C4018: '<' : signed/unsigned mismatch
-         378-KthSmallestElementinaSortedMatrix.cpp
-     1>e:\leetcode\array\array\378-kthsmallestelementinasortedmatrix.cpp(12): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\378-kthsmallestelementinasortedmatrix.cpp(14): warning C4018: '<' : signed/unsigned mismatch
-         36-ValidSudoku.cpp
-     1>e:\leetcode\array\array\36-validsudoku.cpp(10): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\36-validsudoku.cpp(13): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\36-validsudoku.cpp(27): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\36-validsudoku.cpp(30): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\36-validsudoku.cpp(44): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\36-validsudoku.cpp(46): warning C4018: '<' : signed/unsigned mismatch
-         341-FlattenNestedListIterator.cpp
-     1>e:\leetcode\array\array\341-flattennestedlistiterator.cpp(37): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\341-flattennestedlistiterator.cpp(54): warning C4018: '<' : signed/unsigned mismatch
-         328-OddEvenLinkedList.cpp
-         268-MissingNumber.cpp
-     1>e:\leetcode\array\array\268-missingnumber.cpp(24): warning C4018: '<' : signed/unsigned mismatch
-         260-SingleNumberIII.cpp
-     1>e:\leetcode\array\array\260-singlenumberiii.cpp(11): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\260-singlenumberiii.cpp(26): warning C4018: '<' : signed/unsigned mismatch
-         241-DifferentWaystoAddParentheses.cpp
-     1>e:\leetcode\array\array\241-differentwaystoaddparentheses.cpp(12): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\241-differentwaystoaddparentheses.cpp(20): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\241-differentwaystoaddparentheses.cpp(22): warning C4018: '<' : signed/unsigned mismatch
-         236-LowestCommonAncestorofaBinaryTree.cpp
          235-LowestCommonAncestorofaBinarySearchTree.cpp
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(21): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(33): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(35): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(73): error C2011: 'Solution' : 'class' type redefinition
                  e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(12) : see declaration of 'Solution'
-         216-CombinationSumIII.cpp
-         208-ImplementTrie(PrefixTree).cpp
-     1>e:\leetcode\array\array\208-implementtrie(prefixtree).cpp(22): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\208-implementtrie(prefixtree).cpp(35): warning C4018: '<' : signed/unsigned mismatch
-         191-Numberof1Bits.cpp
-         148-SortList.cpp
-         137-SingleNumberII.cpp
-     1>e:\leetcode\array\array\137-singlenumberii.cpp(11): warning C4018: '<' : signed/unsigned mismatch
-         131-PalindromePartitioning.cpp
-         122-BestTimetoBuyandSellStockII.cpp
-     1>e:\leetcode\array\array\122-besttimetobuyandsellstockii.cpp(12): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\122-besttimetobuyandsellstockii.cpp(14): warning C4018: '<' : signed/unsigned mismatch
          Generating Code...
          Compiling...
-         121-BestTimetoBuyandSellStock.cpp
-         120-Triangle.cpp
-     1>e:\leetcode\array\array\120-triangle.cpp(35): warning C4018: '<' : signed/unsigned mismatch
-         12-IntegertoRoman.cpp
-         113-PathSumII.cpp
-         1028-RecoveraTreeFromPreorderTraversal.cpp
-     1>e:\leetcode\array\array\1028-recoveratreefrompreordertraversal.cpp(56): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\1028-recoveratreefrompreordertraversal.cpp(50): warning C4101: 'root' : unreferenced local variable
-         1025-DivisorGame.cpp
-         1021-RemoveOutermostParentheses.cpp
-     1>e:\leetcode\array\array\1021-removeoutermostparentheses.cpp(40): warning C4018: '<' : signed/unsigned mismatch
-         1009-ComplementofBase10Integer.cpp
-     1>e:\leetcode\array\array\1009-complementofbase10integer.cpp(22): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\1009-complementofbase10integer.cpp(24): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
-         1002-FindCommonCharacters.cpp
-     1>e:\leetcode\array\array\1002-findcommoncharacters.cpp(20): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\1002-findcommoncharacters.cpp(23): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\1002-findcommoncharacters.cpp(36): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\1002-findcommoncharacters.cpp(43): warning C4018: '<' : signed/unsigned mismatch
-         100-SameTree.cpp
+         167-TwoSumII-Inputarrayissorted.cpp
          Generating Code...
      1>Done Building Project "E:\leetcode\array\array\array.vcxproj" (Build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:39.64
+Time Elapsed 00:00:13.64
