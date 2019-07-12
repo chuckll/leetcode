@@ -354,6 +354,9 @@
     <ClCompile Include="剑-合并两个排序的链表.cpp" />
     <ClCompile Include="剑2-从尾到头打印链表.cpp" />
     <ClCompile Include="剑2-删除链表中重复的结点.cpp" />
+    <ClCompile Include="剑2-变态跳台阶.cpp" />
+    <ClCompile Include="剑2-斐波那契数列.cpp" />
+    <ClCompile Include="剑2-跳台阶.cpp" />
     <ClCompile Include="剑2-链表中环的入口结点.cpp" />
     <ClCompile Include="牛牛找工作.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
