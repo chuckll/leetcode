@@ -355,6 +355,8 @@
     <ClCompile Include="剑2-从尾到头打印链表.cpp" />
     <ClCompile Include="剑2-删除链表中重复的结点.cpp" />
     <ClCompile Include="剑2-变态跳台阶.cpp" />
+    <ClCompile Include="剑2-和为S的连续正数序列.cpp" />
+    <ClCompile Include="剑2-平衡二叉树.cpp" />
     <ClCompile Include="剑2-把字符串转换成整数.cpp" />
     <ClCompile Include="剑2-斐波那契数列.cpp" />
     <ClCompile Include="剑2-矩形覆盖.cpp" />
