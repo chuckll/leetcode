@@ -360,8 +360,10 @@
     <ClCompile Include="剑2-平衡二叉树.cpp" />
     <ClCompile Include="剑2-把字符串转换成整数.cpp" />
     <ClCompile Include="剑2-数字在排序数组中出现的次数.cpp" />
+    <ClCompile Include="剑2-数组中只出现一次的数字.cpp" />
     <ClCompile Include="剑2-斐波那契数列.cpp" />
     <ClCompile Include="剑2-矩形覆盖.cpp" />
+    <ClCompile Include="剑2-翻转单词顺序序列.cpp" />
     <ClCompile Include="剑2-跳台阶.cpp" />
     <ClCompile Include="剑2-链表中环的入口结点.cpp" />
     <ClCompile Include="牛牛找工作.cpp" />

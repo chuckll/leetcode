@@ -885,5 +885,11 @@
     <ClCompile Include="剑2-数字在排序数组中出现的次数.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑2-数组中只出现一次的数字.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-翻转单词顺序序列.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
