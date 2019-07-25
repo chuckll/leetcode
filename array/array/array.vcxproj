@@ -95,7 +95,9 @@
     <ClCompile Include="119-Pascal%27sTriangleII.cpp" />
     <ClCompile Include="12-IntegertoRoman.cpp" />
     <ClCompile Include="120-Triangle.cpp" />
+    <ClCompile Include="121--BestTimetoBuyandSellStock.cpp" />
     <ClCompile Include="121-BestTimetoBuyandSellStock.cpp" />
+    <ClCompile Include="122--BestTimetoBuyandSellStockII.cpp" />
     <ClCompile Include="122-BestTimetoBuyandSellStockII.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="13-RomantoInteger.cpp" />
@@ -151,14 +153,18 @@
     <ClCompile Include="39-CombinationSum.cpp" />
     <ClCompile Include="40-CombinationSumII.cpp" />
     <ClCompile Include="404-SumofLeftLeaves.cpp" />
+    <ClCompile Include="406--QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="419-BattleshipsinaBoard.cpp" />
     <ClCompile Include="427-ConstructQuadTree.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
+    <ClCompile Include="435-Non-overlappingIntervals.cpp" />
     <ClCompile Include="442-FindAllDuplicatesinanArray.cpp" />
     <ClCompile Include="447-NumberofBoomerangs.cpp" />
     <ClCompile Include="451-SortCharactersByFrequency.cpp" />
+    <ClCompile Include="452-MinimumNumberofArrowstoBurstBalloons.cpp" />
     <ClCompile Include="453-MinimumMovestoEqualArrayElements.cpp" />
+    <ClCompile Include="455-AssignCookies.cpp" />
     <ClCompile Include="46- Permutation.cpp" />
     <ClCompile Include="461-HammingDistance.cpp" />
     <ClCompile Include="476-NumberComplement.cpp" />
@@ -175,6 +181,7 @@
     <ClCompile Include="530-MinimumAbsoluteDifferenceinBST.cpp" />
     <ClCompile Include="537-ComplexNumberMultiplication.cpp" />
     <ClCompile Include="538-ConvertBSTtoGreaterTree.cpp" />
+    <ClCompile Include="540--SingleElementinaSortedArray.cpp" />
     <ClCompile Include="540-SingleElementinaSortedArray.cpp" />
     <ClCompile Include="547-FriendCircles.cpp" />
     <ClCompile Include="557-ReverseWordsinaStringIII.cpp" />
@@ -184,6 +191,7 @@
     <ClCompile Include="575-DistributeCandies.cpp" />
     <ClCompile Include="589-N-aryTreePreorderTraversal.cpp" />
     <ClCompile Include="59-SpiralMatrixII.cpp" />
+    <ClCompile Include="605-CanPlaceFlowers.cpp" />
     <ClCompile Include="609-FindDuplicateFileinSystem.cpp" />
     <ClCompile Include="62-UniquePaths.cpp" />
     <ClCompile Include="633-SumofSquareNumbers.cpp" />
@@ -195,6 +203,7 @@
     <ClCompile Include="677-MapSumPairs.cpp" />
     <ClCompile Include="682-BaseballGame.cpp" />
     <ClCompile Include="684- Redundant-Connection.cpp" />
+    <ClCompile Include="69-Sqrt(x).cpp" />
     <ClCompile Include="690-EmployeeImportance.cpp" />
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
@@ -205,6 +214,7 @@
     <ClCompile Include="73-SetMatrixZeroes.cpp" />
     <ClCompile Include="733-FloodFill.cpp" />
     <ClCompile Include="739-DailyTemperatures.cpp" />
+    <ClCompile Include="744-FindSmallestLetterGreaterThanTarget.cpp" />
     <ClCompile Include="748-ShortestCompletingWord.cpp" />
     <ClCompile Include="762-PrimeNumberofSetBitsinBinaryRepresentation.cpp" />
     <ClCompile Include="763-PartitionLabels.cpp" />
@@ -350,15 +360,21 @@
     <ClCompile Include="剑-表示数值的字符串.cpp" />
     <ClCompile Include="剑-连续子数组的最大和.cpp" />
     <ClCompile Include="剑-链表中环的入口.cpp" />
+    <ClCompile Include="剑2-二叉树的下一个结点.cpp" />
+    <ClCompile Include="剑2-二叉树的深度.cpp" />
     <ClCompile Include="剑2-二叉树的镜像.cpp" />
     <ClCompile Include="剑-合并两个排序的链表.cpp" />
     <ClCompile Include="剑2-从尾到头打印链表.cpp" />
     <ClCompile Include="剑2-删除链表中重复的结点.cpp" />
     <ClCompile Include="剑2-变态跳台阶.cpp" />
+    <ClCompile Include="剑2-和为S的两个数字.cpp" />
     <ClCompile Include="剑2-和为S的连续正数序列.cpp" />
+    <ClCompile Include="剑2-对称的二叉树.cpp" />
     <ClCompile Include="剑2-左旋转字符串.cpp" />
     <ClCompile Include="剑2-平衡二叉树.cpp" />
+    <ClCompile Include="剑2-把二叉树打印成多行.cpp" />
     <ClCompile Include="剑2-把字符串转换成整数.cpp" />
+    <ClCompile Include="剑2-按之字形顺序打印二叉树.cpp" />
     <ClCompile Include="剑2-数字在排序数组中出现的次数.cpp" />
     <ClCompile Include="剑2-数组中只出现一次的数字.cpp" />
     <ClCompile Include="剑2-斐波那契数列.cpp" />
@@ -366,6 +382,7 @@
     <ClCompile Include="剑2-翻转单词顺序序列.cpp" />
     <ClCompile Include="剑2-跳台阶.cpp" />
     <ClCompile Include="剑2-链表中环的入口结点.cpp" />
+    <ClCompile Include="剑2-顺时针打印矩阵.cpp" />
     <ClCompile Include="牛牛找工作.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
   </ItemGroup>

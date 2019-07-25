@@ -891,5 +891,56 @@
     <ClCompile Include="剑2-翻转单词顺序序列.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑2-二叉树的深度.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-和为S的两个数字.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="455-AssignCookies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="435-Non-overlappingIntervals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="452-MinimumNumberofArrowstoBurstBalloons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="406--QueueReconstructionbyHeight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-顺时针打印矩阵.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-二叉树的下一个结点.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-对称的二叉树.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="121--BestTimetoBuyandSellStock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="122--BestTimetoBuyandSellStockII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="605-CanPlaceFlowers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-把二叉树打印成多行.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-按之字形顺序打印二叉树.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="69-Sqrt(x).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="744-FindSmallestLetterGreaterThanTarget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="540--SingleElementinaSortedArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

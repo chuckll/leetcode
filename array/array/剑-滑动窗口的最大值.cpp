@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<vector>
-#include<deque>
+#include<algorithm>
 using namespace std;
 
 
@@ -9,22 +9,21 @@ class Solution {
 public:
     vector<int> maxInWindows(const vector<int>& num, unsigned int size)
     {
-        vector<int> res;
-		deque<int> dq;
-		if(num.size() == 0)
+        int n = num.size();
+		int left = 0, right = left+size-1;
+		vector<int> res;
+		if(size <= 0 || right > n-1)
 			return res;
-		if(size == 0)
+		if(size == 1)
 			return num;
-		if(size > num.size())
+		if(right == n-1)
 		{
-			auto p = max(res.begin(),res.end());
-			res.push_back(*p);
+			res.push_back(*(max_element(num.begin(),num.end())));
 			return res;
 		}
-
-		for(int i = 0; i < num.size(); i++)
+		for(;right <= n-1; right++,left++)
 		{
-			
+			res.push_back(*(max_element(num.begin()+left,num.begin()+right+1)));
 		}
 		return res;
     }
