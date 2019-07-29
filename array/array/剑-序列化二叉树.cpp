@@ -1,10 +1,13 @@
 #include<stdio.h>
 #include<string>
 #include<queue>
-
+#include<stdio.h>
 using namespace std;
 
 
+
+
+//看讨论区
 struct TreeNode {
     int val;
     struct TreeNode *left;
@@ -14,41 +17,57 @@ struct TreeNode {
     }
 };
 
-class Solution {
+class Solution {  
 public:
-    char* Serialize(TreeNode *root) {    
-        
-		if(root == NULL)
-			return NULL;
-		queue<TreeNode*> q;
-		string s;
-		q.push(root);
-		bool notNULL = true;
-		while(notNULL)
-		{
-			int n = q.size();
-			notNULL = false;
-			for(int i = 0; i < n; i++)
-			{
-			   TreeNode* f = q.front();
-			   q.pop();
-			   if(f != NULL)
-				   s.append(to_string(f->val));
-			   else
-				   s.append("#");
-			   if(f->left != NULL || f->right != NULL)
-				   notNULL = true;
-			   q.push(f->left);
-			   q.push(f->right);
-			}
-		}
-		return s.c_str;
+    char* Serialize(TreeNode *root) {
+       if(root == NULL)
+           return NULL;
+        string str;
+        Serialize(root, str);
+        char *ret = new char[str.length() + 1];
+        int i;
+        for(i = 0; i < str.length(); i++){
+            ret[i] = str[i];
+        }
+        ret[i] = '\0';
+        return ret;
     }
-
-
-
+    void Serialize(TreeNode *root, string& str){
+        if(root == NULL){
+            str += '#';
+            return ;
+        }
+        string r = to_string(root->val);
+        str += r;
+        str += ',';
+        Serialize(root->left, str);
+        Serialize(root->right, str);
+    }
+     
     TreeNode* Deserialize(char *str) {
-		
-    
+        if(str == NULL)
+            return NULL;
+        TreeNode *ret = Deserialize(&str);
+ 
+        return ret;
+    }
+    TreeNode* Deserialize(char **str){//由于递归时，会不断的向后读取字符串
+        if(**str == '#'){  //所以一定要用**str,
+            ++(*str);         //以保证得到递归后指针str指向未被读取的字符
+            return NULL;
+        }
+        int num = 0;
+        while(**str != '\0' && **str != ','){
+            num = num*10 + ((**str) - '0');
+            ++(*str);
+        }
+        TreeNode *root = new TreeNode(num);
+        if(**str == '\0')
+            return root;
+        else
+            (*str)++;
+        root->left = Deserialize(str);
+        root->right = Deserialize(str);
+        return root;
     }
 };
