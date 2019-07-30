@@ -129,6 +129,7 @@
     <ClCompile Include="237-DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="238-ProductofArrayExceptSelf.cpp" />
     <ClCompile Include="24-SwapNodesinPairs.cpp" />
+    <ClCompile Include="241--DifferentWaystoAddParentheses.cpp" />
     <ClCompile Include="241-DifferentWaystoAddParentheses.cpp" />
     <ClCompile Include="257-BinaryTreePaths.cpp" />
     <ClCompile Include="258- AddDigits.cpp" />
@@ -295,6 +296,7 @@
     <ClCompile Include="515-FindLargestValueinEachTreeRow.cpp" />
     <ClCompile Include="942-DIStringMatch.cpp" />
     <ClCompile Include="944-DeleteColumnstoMakeSorted.cpp" />
+    <ClCompile Include="95--UniqueBinarySearchTreesII.cpp" />
     <ClCompile Include="95-UniqueBinarySearchTreesII.cpp" />
     <ClCompile Include="950-RevealCardsInIncreasingOrder.cpp" />
     <ClCompile Include="951-FlipEquivalentBinaryTrees.cpp" />
@@ -379,11 +381,14 @@
     <ClCompile Include="剑2-把字符串转换成整数.cpp" />
     <ClCompile Include="剑2-按之字形顺序打印二叉树.cpp" />
     <ClCompile Include="剑2-数字在排序数组中出现的次数.cpp" />
+    <ClCompile Include="剑2-数据流的中位数.cpp" />
     <ClCompile Include="剑2-数组中只出现一次的数字.cpp" />
     <ClCompile Include="剑2-斐波那契数列.cpp" />
+    <ClCompile Include="剑2-滑动窗口的最大值.cpp" />
     <ClCompile Include="剑2-矩形覆盖.cpp" />
     <ClCompile Include="剑2-翻转单词顺序序列.cpp" />
     <ClCompile Include="剑2-跳台阶.cpp" />
+    <ClCompile Include="剑2-重建二叉树.cpp" />
     <ClCompile Include="剑2-链表中环的入口结点.cpp" />
     <ClCompile Include="剑2-顺时针打印矩阵.cpp" />
     <ClCompile Include="牛牛找工作.cpp" />
