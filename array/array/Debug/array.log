@@ -1,48 +1,55 @@
-﻿Build started 2019/7/11 18:50:56.
+﻿Build started 2019/7/31 20:27:17.
      1>Project "E:\leetcode\array\array\array.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "167-TwoSumII-Inputarrayissorted.cpp" "235-LowestCommonAncestorofaBinarySearchTree.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "46- Permutation.cpp" "49-GroupAnagrams.cpp" "547-FriendCircles.cpp" "609-FindDuplicateFileinSystem.cpp" "633-SumofSquareNumbers.cpp" "677-MapSumPairs.cpp" "剑-二叉搜索树的第k个结点.cpp" "剑-字符串的排列.cpp" "剑-序列化二叉树.cpp" "剑-机器人的运动范围.cpp" "剑-正则表达式匹配.cpp" "剑-矩阵中的路径.cpp" "剑-翻转单词顺序列.cpp" "剑2-二叉树的镜像.cpp" "剑-合并两个排序的链表.cpp" "剑2-删除链表中重复的结点.cpp" "剑2-链表中环的入口结点.cpp" "牛牛找工作.cpp"
-         牛牛找工作.cpp
-     1>e:\leetcode\array\array\牛牛找工作.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
-     1>e:\leetcode\array\array\牛牛找工作.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
-     1>e:\leetcode\array\array\牛牛找工作.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 d:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
-     1>e:\leetcode\array\array\牛牛找工作.cpp(31): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\leetcode\array\array\牛牛找工作.cpp(37): warning C4018: '<' : signed/unsigned mismatch
-         剑2-链表中环的入口结点.cpp
-         剑2-删除链表中重复的结点.cpp
-         剑-合并两个排序的链表.cpp
-         剑2-二叉树的镜像.cpp
-         剑-翻转单词顺序列.cpp
-     1>e:\leetcode\array\array\剑-翻转单词顺序列.cpp(14): warning C4018: '<' : signed/unsigned mismatch
-         剑-矩阵中的路径.cpp
-         剑-正则表达式匹配.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\glm /ID:\QT\Qt5.5.0\5.5\msvc2012\include /ID:\glad\include\KHR /ID:\glad\include\glad /I"D:\glfw-3.2.1.bin.WIN32\include\GLFW" /I"D:\glfw-3.2.1.bin.WIN32\lib-vc2012" /ID:\QT\Qt5.3.0\5.3\msvc2012_opengl\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "121--BestTimetoBuyandSellStock.cpp" "122--BestTimetoBuyandSellStockII.cpp" "153-FindMinimuminRotatedSortedArray.cpp" "235-LowestCommonAncestorofaBinarySearchTree.cpp" "241--DifferentWaystoAddParentheses.cpp" "278-FirstBadVersion.cpp" "406--QueueReconstructionbyHeight.cpp" "429-N-aryTreeLevelOrderTraversal.cpp" "435-Non-overlappingIntervals.cpp" "452-MinimumNumberofArrowstoBurstBalloons.cpp" "455-AssignCookies.cpp" "46- Permutation.cpp" "49-GroupAnagrams.cpp" "540--SingleElementinaSortedArray.cpp" "547-FriendCircles.cpp" "605-CanPlaceFlowers.cpp" "609-FindDuplicateFileinSystem.cpp" "677-MapSumPairs.cpp" "69-Sqrt(x).cpp" "744-FindSmallestLetterGreaterThanTarget.cpp" "95--UniqueBinarySearchTreesII.cpp" "剑-二叉搜索树的第k个结点.cpp" "剑-序列化二叉树.cpp" "剑-机器人的运动范围.cpp" "剑-滑动窗口的最大值.cpp" "剑2-二叉搜索树的第k个结点.cpp" "剑2-二叉树的下一个结点.cpp" "剑2-二叉树的深度.cpp" "剑2-从尾到头打印链表.cpp" "剑2-变态跳台阶.cpp" "剑2-和为S的两个数字.cpp" "剑2-和为S的连续正数序列.cpp" "剑2-对称的二叉树.cpp" "剑2-左旋转字符串.cpp" "剑2-平衡二叉树.cpp" "剑2-把二叉树打印成多行.cpp" "剑2-把字符串转换成整数.cpp" "剑2-按之字形顺序打印二叉树.cpp" "剑2-数字在排序数组中出现的次数.cpp" "剑2-数据流的中位数.cpp" "剑2-数组中只出现一次的数字.cpp" "剑2-斐波那契数列.cpp" "剑2-滑动窗口的最大值.cpp" "剑2-用两个栈实现队列.cpp" "剑2-矩形覆盖.cpp" "剑2-翻转单词顺序序列.cpp" "剑2-跳台阶.cpp" "剑2-重建二叉树.cpp" "剑2-顺时针打印矩阵.cpp"
+         剑2-顺时针打印矩阵.cpp
+         剑2-重建二叉树.cpp
+         剑2-跳台阶.cpp
+         剑2-翻转单词顺序序列.cpp
+     1>e:\leetcode\array\array\剑2-翻转单词顺序序列.cpp(10): warning C4018: '<' : signed/unsigned mismatch
+         剑2-矩形覆盖.cpp
+         剑2-用两个栈实现队列.cpp
+         剑2-滑动窗口的最大值.cpp
+     1>e:\leetcode\array\array\剑2-滑动窗口的最大值.cpp(13): warning C4018: '>' : signed/unsigned mismatch
+         剑2-斐波那契数列.cpp
+         剑2-数组中只出现一次的数字.cpp
+     1>e:\leetcode\array\array\剑2-数组中只出现一次的数字.cpp(14): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\剑2-数组中只出现一次的数字.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+         剑2-数据流的中位数.cpp
+         剑2-数字在排序数组中出现的次数.cpp
+         剑2-按之字形顺序打印二叉树.cpp
+         剑2-把字符串转换成整数.cpp
+     1>e:\leetcode\array\array\剑2-把字符串转换成整数.cpp(24): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+         剑2-把二叉树打印成多行.cpp
+         剑2-平衡二叉树.cpp
+         剑2-左旋转字符串.cpp
+         剑2-对称的二叉树.cpp
+         剑2-和为S的连续正数序列.cpp
+         剑2-和为S的两个数字.cpp
+         剑2-变态跳台阶.cpp
+         Generating Code...
+         Compiling...
+         剑2-从尾到头打印链表.cpp
+         剑2-二叉树的深度.cpp
+         剑2-二叉树的下一个结点.cpp
+     1>e:\leetcode\array\array\剑2-二叉树的下一个结点.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+         剑2-二叉搜索树的第k个结点.cpp
+     1>e:\leetcode\array\array\剑2-二叉搜索树的第k个结点.cpp(17): error C2864: 'Solution::index' : only static const integral data members can be initialized within a class
+         剑-滑动窗口的最大值.cpp
          剑-机器人的运动范围.cpp
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(13): error C2059: syntax error : '{'
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(13): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(27): error C2065: 'isVisited' : undeclared identifier
      1>e:\leetcode\array\array\剑-机器人的运动范围.cpp(29): error C2065: 'isVisited' : undeclared identifier
          剑-序列化二叉树.cpp
-     1>e:\leetcode\array\array\剑-序列化二叉树.cpp(45): error C3867: 'std::basic_string<_Elem,_Traits,_Alloc>::c_str': function call missing argument list; use '&std::basic_string<_Elem,_Traits,_Alloc>::c_str' to create a pointer to member
-                 with
-                 [
-                     _Elem=char,
-                     _Traits=std::char_traits<char>,
-                     _Alloc=std::allocator<char>
-                 ]
-     1>e:\leetcode\array\array\剑-序列化二叉树.cpp(45): error C2440: 'return' : cannot convert from 'const char *(__thiscall std::basic_string<_Elem,_Traits,_Alloc>::* )(void) throw() const' to 'char *'
-                 with
-                 [
-                     _Elem=char,
-                     _Traits=std::char_traits<char>,
-                     _Alloc=std::allocator<char>
-                 ]
-                 There is no context in which this conversion is possible
-         剑-字符串的排列.cpp
+     1>e:\leetcode\array\array\剑-序列化二叉树.cpp(29): warning C4018: '<' : signed/unsigned mismatch
          剑-二叉搜索树的第k个结点.cpp
      1>e:\leetcode\array\array\剑-二叉搜索树的第k个结点.cpp(16): error C2864: 'Solution::index' : only static const integral data members can be initialized within a class
+         95--UniqueBinarySearchTreesII.cpp
+     1>e:\leetcode\array\array\95--uniquebinarysearchtreesii.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\95--uniquebinarysearchtreesii.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+         744-FindSmallestLetterGreaterThanTarget.cpp
+         69-Sqrt(x).cpp
          677-MapSumPairs.cpp
      1>d:\program files (x86)\microsoft visual studio 11.0\vc\include\xstddef(180): error C2784: 'bool std::operator <(const std::_Tree<_Traits> &,const std::_Tree<_Traits> &)' : could not deduce template argument for 'const std::_Tree<_Traits> &' from 'const std::string'
                  d:\program files (x86)\microsoft visual studio 11.0\vc\include\xtree(2245) : see declaration of 'std::operator <'
@@ -101,8 +108,6 @@
                  d:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(232) : see declaration of 'std::operator <'
                  d:\program files (x86)\microsoft visual studio 11.0\vc\include\utility(232) : see declaration of 'std::operator <'
      1>d:\program files (x86)\microsoft visual studio 11.0\vc\include\xstddef(180): error C2676: binary '<' : 'const std::string' does not define this operator or a conversion to a type acceptable to the predefined operator
-         633-SumofSquareNumbers.cpp
-     1>e:\leetcode\array\array\633-sumofsquarenumbers.cpp(11): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
          609-FindDuplicateFileinSystem.cpp
      1>e:\leetcode\array\array\609-findduplicatefileinsystem.cpp(14): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\609-findduplicatefileinsystem.cpp(19): warning C4018: '<' : signed/unsigned mismatch
@@ -111,12 +116,14 @@
      1>e:\leetcode\array\array\609-findduplicatefileinsystem.cpp(52): error C2059: syntax error : ')'
      1>e:\leetcode\array\array\609-findduplicatefileinsystem.cpp(54): error C2143: syntax error : missing ';' before ')'
      1>e:\leetcode\array\array\609-findduplicatefileinsystem.cpp(55): error C2143: syntax error : missing ';' before '{'
+         605-CanPlaceFlowers.cpp
          547-FriendCircles.cpp
      1>e:\leetcode\array\array\547-friendcircles.cpp(9): error C2864: 'Solution::N' : only static const integral data members can be initialized within a class
      1>e:\leetcode\array\array\547-friendcircles.cpp(10): error C2327: 'Solution::N' : is not a type name, static, or enumerator
      1>e:\leetcode\array\array\547-friendcircles.cpp(10): error C2065: 'N' : undeclared identifier
      1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2327: 'Solution::N' : is not a type name, static, or enumerator
      1>e:\leetcode\array\array\547-friendcircles.cpp(11): error C2065: 'N' : undeclared identifier
+         540--SingleElementinaSortedArray.cpp
          49-GroupAnagrams.cpp
      1>e:\leetcode\array\array\49-groupanagrams.cpp(14): warning C4018: '<' : signed/unsigned mismatch
      1>d:\program files (x86)\microsoft visual studio 11.0\vc\include\xstddef(180): error C2784: 'bool std::operator <(const std::_Tree<_Traits> &,const std::_Tree<_Traits> &)' : could not deduce template argument for 'const std::_Tree<_Traits> &' from 'const std::string'
@@ -184,21 +191,35 @@
          46- Permutation.cpp
      1>e:\leetcode\array\array\46- permutation.cpp(40): error C2011: 'Solution' : 'class' type redefinition
                  e:\leetcode\array\array\46- permutation.cpp(6) : see declaration of 'Solution'
+         455-AssignCookies.cpp
+     1>e:\leetcode\array\array\455-assigncookies.cpp(17): warning C4018: '<' : signed/unsigned mismatch
+         452-MinimumNumberofArrowstoBurstBalloons.cpp
+         Generating Code...
+         Compiling...
+         435-Non-overlappingIntervals.cpp
          429-N-aryTreeLevelOrderTraversal.cpp
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(8): error C2864: 'Node::val' : only static const integral data members can be initialized within a class
      1>e:\leetcode\array\array\429-n-arytreelevelordertraversal.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+         406--QueueReconstructionbyHeight.cpp
+         278-FirstBadVersion.cpp
+         241--DifferentWaystoAddParentheses.cpp
+     1>e:\leetcode\array\array\241--differentwaystoaddparentheses.cpp(11): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\241--differentwaystoaddparentheses.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\241--differentwaystoaddparentheses.cpp(20): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\leetcode\array\array\241--differentwaystoaddparentheses.cpp(33): error C3861: 'stoi': identifier not found
          235-LowestCommonAncestorofaBinarySearchTree.cpp
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(21): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(33): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(35): warning C4018: '<' : signed/unsigned mismatch
      1>e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(73): error C2011: 'Solution' : 'class' type redefinition
                  e:\leetcode\array\array\235-lowestcommonancestorofabinarysearchtree.cpp(12) : see declaration of 'Solution'
-         Generating Code...
-         Compiling...
-         167-TwoSumII-Inputarrayissorted.cpp
+         153-FindMinimuminRotatedSortedArray.cpp
+         122--BestTimetoBuyandSellStockII.cpp
+         121--BestTimetoBuyandSellStock.cpp
+     1>e:\leetcode\array\array\121--besttimetobuyandsellstock.cpp(15): warning C4018: '<' : signed/unsigned mismatch
          Generating Code...
      1>Done Building Project "E:\leetcode\array\array\array.vcxproj" (Build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:13.64
+Time Elapsed 00:00:18.80

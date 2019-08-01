@@ -99,8 +99,10 @@
     <ClCompile Include="121-BestTimetoBuyandSellStock.cpp" />
     <ClCompile Include="122--BestTimetoBuyandSellStockII.cpp" />
     <ClCompile Include="122-BestTimetoBuyandSellStockII.cpp" />
+    <ClCompile Include="127-WordLadder.cpp" />
     <ClCompile Include="129-SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="13-RomantoInteger.cpp" />
+    <ClCompile Include="130-SurroundedRegions.cpp" />
     <ClCompile Include="131-PalindromePartitioning.cpp" />
     <ClCompile Include="137-SingleNumberII.cpp" />
     <ClCompile Include="144-BinaryTreePreorderTraversal.cpp" />
@@ -109,10 +111,12 @@
     <ClCompile Include="153-FindMinimuminRotatedSortedArray.cpp" />
     <ClCompile Include="167-TwoSumII-Inputarrayissorted.cpp" />
     <ClCompile Include="169-MajorityElement.cpp" />
+    <ClCompile Include="17-LetterCombinationsofaPhoneNumber.cpp" />
     <ClCompile Include="171-ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="173-BinarySearchTreeIterator.cpp" />
     <ClCompile Include="191-Numberof1Bits.cpp" />
     <ClCompile Include="199-BinaryTreeRightSideView.cpp" />
+    <ClCompile Include="200--NumberofIslands.cpp" />
     <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="202-HappyNumber.cpp" />
     <ClCompile Include="206-ReverseLinkedList.cpp" />
@@ -136,6 +140,7 @@
     <ClCompile Include="260-SingleNumberIII.cpp" />
     <ClCompile Include="268-MissingNumber.cpp" />
     <ClCompile Include="278-FirstBadVersion.cpp" />
+    <ClCompile Include="279-PerfectSquares.cpp" />
     <ClCompile Include="283-MoveZeroes.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
     <ClCompile Include="287-FindtheDuplicateNumber.cpp" />
@@ -158,6 +163,7 @@
     <ClCompile Include="404-SumofLeftLeaves.cpp" />
     <ClCompile Include="406--QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
+    <ClCompile Include="417-PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="419-BattleshipsinaBoard.cpp" />
     <ClCompile Include="427-ConstructQuadTree.cpp" />
     <ClCompile Include="429-N-aryTreeLevelOrderTraversal.cpp" />
@@ -209,6 +215,7 @@
     <ClCompile Include="69-Sqrt(x).cpp" />
     <ClCompile Include="690-EmployeeImportance.cpp" />
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
+    <ClCompile Include="695-MaxAreaofIsland.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
     <ClCompile Include="2501.cpp" />
@@ -263,6 +270,7 @@
     <ClCompile Include="921-MinimumAddtoMakeParenthesesValid.cpp" />
     <ClCompile Include="922-SortArrayByParityII.cpp" />
     <ClCompile Include="929-UniqueEmailAddresses.cpp" />
+    <ClCompile Include="93-RestoreIPAddresses.cpp" />
     <ClCompile Include="933-NumberofRecentCalls.cpp" />
     <ClCompile Include="937-ReorderLogFiles.cpp" />
     <ClCompile Include="938-RangeSumofBST.cpp" />
@@ -384,7 +392,9 @@
     <ClCompile Include="剑2-数据流的中位数.cpp" />
     <ClCompile Include="剑2-数组中只出现一次的数字.cpp" />
     <ClCompile Include="剑2-斐波那契数列.cpp" />
+    <ClCompile Include="剑2-旋转数组的最小数字.cpp" />
     <ClCompile Include="剑2-滑动窗口的最大值.cpp" />
+    <ClCompile Include="剑2-用两个栈实现队列.cpp" />
     <ClCompile Include="剑2-矩形覆盖.cpp" />
     <ClCompile Include="剑2-翻转单词顺序序列.cpp" />
     <ClCompile Include="剑2-跳台阶.cpp" />
