@@ -115,6 +115,7 @@
     <ClCompile Include="171-ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="173-BinarySearchTreeIterator.cpp" />
     <ClCompile Include="191-Numberof1Bits.cpp" />
+    <ClCompile Include="198-HouseRobber.cpp" />
     <ClCompile Include="199-BinaryTreeRightSideView.cpp" />
     <ClCompile Include="200--NumberofIslands.cpp" />
     <ClCompile Include="200-NumberofIslands.cpp" />
@@ -122,6 +123,7 @@
     <ClCompile Include="206-ReverseLinkedList.cpp" />
     <ClCompile Include="208-ImplementTrie(PrefixTree).cpp" />
     <ClCompile Include="21-MergeTwoSortedLists.cpp" />
+    <ClCompile Include="213-HouseRobberII.cpp" />
     <ClCompile Include="215-KthLargestElementinanArray.cpp" />
     <ClCompile Include="216-CombinationSumIII.cpp" />
     <ClCompile Include="22-GenerateParentheses.cpp" />
@@ -146,12 +148,15 @@
     <ClCompile Include="287-FindtheDuplicateNumber.cpp" />
     <ClCompile Include="289-GameofLife.cpp" />
     <ClCompile Include="292-NimGame.cpp" />
+    <ClCompile Include="300-LongestIncreasingSubsequence.cpp" />
+    <ClCompile Include="303--RangeSumQuery-Immutable.cpp" />
     <ClCompile Include="303-RangeSumQuery-Immutable.cpp" />
     <ClCompile Include="313-SuperUglyNumber.cpp" />
     <ClCompile Include="328-OddEvenLinkedList.cpp" />
     <ClCompile Include="337-HouseRobberIII.cpp" />
     <ClCompile Include="338-CountingBits.cpp" />
     <ClCompile Include="341-FlattenNestedListIterator.cpp" />
+    <ClCompile Include="343-IntegerBreak.cpp" />
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
     <ClCompile Include="36-ValidSudoku.cpp" />
@@ -163,6 +168,7 @@
     <ClCompile Include="404-SumofLeftLeaves.cpp" />
     <ClCompile Include="406--QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
+    <ClCompile Include="413-ArithmeticSlices.cpp" />
     <ClCompile Include="417-PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="419-BattleshipsinaBoard.cpp" />
     <ClCompile Include="427-ConstructQuadTree.cpp" />
@@ -202,9 +208,11 @@
     <ClCompile Include="59-SpiralMatrixII.cpp" />
     <ClCompile Include="605-CanPlaceFlowers.cpp" />
     <ClCompile Include="609-FindDuplicateFileinSystem.cpp" />
+    <ClCompile Include="62--UniquePaths.cpp" />
     <ClCompile Include="62-UniquePaths.cpp" />
     <ClCompile Include="633-SumofSquareNumbers.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
+    <ClCompile Include="64--最小路径和.cpp" />
     <ClCompile Include="64-MinimumPathSum.cpp" />
     <ClCompile Include="653-TwoSumIV-InputisaBST.cpp" />
     <ClCompile Include="657-RobotReturntoOrigin.cpp" />
@@ -216,6 +224,7 @@
     <ClCompile Include="690-EmployeeImportance.cpp" />
     <ClCompile Include="693-BinaryNumberwithAlternatingBits.cpp" />
     <ClCompile Include="695-MaxAreaofIsland.cpp" />
+    <ClCompile Include="70-ClimbingStairs.cpp" />
     <ClCompile Include="700-SearchinaBinarySearchTree.cpp" />
     <ClCompile Include="701-InsertintoaBinarySearchTree.cpp" />
     <ClCompile Include="2501.cpp" />
@@ -266,6 +275,7 @@
     <ClCompile Include="897-IncreasingOrderSearchTree.cpp" />
     <ClCompile Include="9-PalindromeNumber.cpp" />
     <ClCompile Include="908-SmallestRangeI.cpp" />
+    <ClCompile Include="91-DecodeWays.cpp" />
     <ClCompile Include="912-SortanArray.cpp" />
     <ClCompile Include="921-MinimumAddtoMakeParenthesesValid.cpp" />
     <ClCompile Include="922-SortArrayByParityII.cpp" />
@@ -403,6 +413,12 @@
     <ClCompile Include="剑2-顺时针打印矩阵.cpp" />
     <ClCompile Include="牛牛找工作.cpp" />
     <ClCompile Include="重建二叉树.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="array.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
