@@ -76,6 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1.cpp" />
     <ClCompile Include="100-SameTree.cpp" />
     <ClCompile Include="1002-FindCommonCharacters.cpp" />
     <ClCompile Include="1008-ConstructBinarySearchTreefromPreorderTraversal.cpp" />
@@ -117,6 +118,7 @@
     <ClCompile Include="191-Numberof1Bits.cpp" />
     <ClCompile Include="198-HouseRobber.cpp" />
     <ClCompile Include="199-BinaryTreeRightSideView.cpp" />
+    <ClCompile Include="2.cpp" />
     <ClCompile Include="200--NumberofIslands.cpp" />
     <ClCompile Include="200-NumberofIslands.cpp" />
     <ClCompile Include="202-HappyNumber.cpp" />
@@ -148,6 +150,7 @@
     <ClCompile Include="287-FindtheDuplicateNumber.cpp" />
     <ClCompile Include="289-GameofLife.cpp" />
     <ClCompile Include="292-NimGame.cpp" />
+    <ClCompile Include="3.cpp" />
     <ClCompile Include="300-LongestIncreasingSubsequence.cpp" />
     <ClCompile Include="303--RangeSumQuery-Immutable.cpp" />
     <ClCompile Include="303-RangeSumQuery-Immutable.cpp" />
@@ -164,6 +167,7 @@
     <ClCompile Include="378-KthSmallestElementinaSortedMatrix.cpp" />
     <ClCompile Include="386-LexicographicalNumbers.cpp" />
     <ClCompile Include="39-CombinationSum.cpp" />
+    <ClCompile Include="4.cpp" />
     <ClCompile Include="40-CombinationSumII.cpp" />
     <ClCompile Include="404-SumofLeftLeaves.cpp" />
     <ClCompile Include="406--QueueReconstructionbyHeight.cpp" />
@@ -247,6 +251,14 @@
     <ClCompile Include="789-EscapeTheGhosts.cpp" />
     <ClCompile Include="791-CustomSortString.cpp" />
     <ClCompile Include="797-AllPathsFromSourcetoTarget.cpp" />
+    <ClCompile Include="8-4-1.cpp" />
+    <ClCompile Include="8-4-2.cpp" />
+    <ClCompile Include="8-4-3.cpp" />
+    <ClCompile Include="8-4-4.cpp" />
+    <ClCompile Include="8-4-5.cpp" />
+    <ClCompile Include="8-5-1.cpp" />
+    <ClCompile Include="8-5-2.cpp" />
+    <ClCompile Include="8-5-3.cpp" />
     <ClCompile Include="804-UniqueMorseCodeWords.cpp" />
     <ClCompile Include="806-NumberofLinesToWriteString.cpp" />
     <ClCompile Include="811- SubdomainVisitCount.cpp" />
@@ -331,6 +343,7 @@
     <ClCompile Include="985-SumofEvenNumbersAfterQueries.cpp" />
     <ClCompile Include="986-IntervalListIntersections.cpp" />
     <ClCompile Include="999-AvailableCapturesforRook.cpp" />
+    <ClCompile Include="999-Vectormax.cpp" />
     <ClCompile Include="Source111.cpp" />
     <ClCompile Include="Source222.cpp" />
     <ClCompile Include="Source333.cpp" />
@@ -382,6 +395,8 @@
     <ClCompile Include="剑-表示数值的字符串.cpp" />
     <ClCompile Include="剑-连续子数组的最大和.cpp" />
     <ClCompile Include="剑-链表中环的入口.cpp" />
+    <ClCompile Include="剑2-丑数.cpp" />
+    <ClCompile Include="剑2-两个链表的第一个公共结点.cpp" />
     <ClCompile Include="剑2-二叉搜索树的第k个结点.cpp" />
     <ClCompile Include="剑2-二叉树的下一个结点.cpp" />
     <ClCompile Include="剑2-二叉树的深度.cpp" />
