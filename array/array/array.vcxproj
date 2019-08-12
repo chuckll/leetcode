@@ -423,10 +423,12 @@
     <ClCompile Include="剑2-数组中出现次数超过一半的数字.cpp" />
     <ClCompile Include="剑2-数组中只出现一次的数字.cpp" />
     <ClCompile Include="剑2-数组中的逆序对.cpp" />
+    <ClCompile Include="剑2-数组中重复的数字.cpp" />
     <ClCompile Include="剑2-整数中1出现的次数.cpp" />
     <ClCompile Include="剑2-斐波那契数列.cpp" />
     <ClCompile Include="剑2-旋转数组的最小数字.cpp" />
     <ClCompile Include="剑2-最小的k个数.cpp" />
+    <ClCompile Include="剑2-构建乘积数组.cpp" />
     <ClCompile Include="剑2-滑动窗口的最大值.cpp" />
     <ClCompile Include="剑2-用两个栈实现队列.cpp" />
     <ClCompile Include="剑2-矩形覆盖.cpp" />
