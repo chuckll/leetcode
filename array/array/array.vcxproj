@@ -406,6 +406,7 @@
     <ClCompile Include="剑2-二叉树的深度.cpp" />
     <ClCompile Include="剑2-二叉树的镜像.cpp" />
     <ClCompile Include="剑-合并两个排序的链表.cpp" />
+    <ClCompile Include="剑2-二维数组中的查找.cpp" />
     <ClCompile Include="剑2-从尾到头打印链表.cpp" />
     <ClCompile Include="剑2-删除链表中重复的结点.cpp" />
     <ClCompile Include="剑2-变态跳台阶.cpp" />
@@ -414,6 +415,7 @@
     <ClCompile Include="剑2-对称的二叉树.cpp" />
     <ClCompile Include="剑2-左旋转字符串.cpp" />
     <ClCompile Include="剑2-平衡二叉树.cpp" />
+    <ClCompile Include="剑2-扑克牌顺子.cpp" />
     <ClCompile Include="剑2-把二叉树打印成多行.cpp" />
     <ClCompile Include="剑2-把字符串转换成整数.cpp" />
     <ClCompile Include="剑2-把数组排成最小的数.cpp" />

@@ -1110,6 +1110,12 @@
     <ClCompile Include="剑2-构建乘积数组.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑2-二维数组中的查找.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="剑2-扑克牌顺子.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
