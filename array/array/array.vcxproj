@@ -255,6 +255,8 @@
     <ClCompile Include="8-11-2.cpp" />
     <ClCompile Include="8-11-3.cpp" />
     <ClCompile Include="8-11-4.cpp" />
+    <ClCompile Include="8-17-1.cpp" />
+    <ClCompile Include="8-17-2.cpp" />
     <ClCompile Include="8-4-1.cpp" />
     <ClCompile Include="8-4-2.cpp" />
     <ClCompile Include="8-4-3.cpp" />
@@ -412,6 +414,8 @@
     <ClCompile Include="剑2-变态跳台阶.cpp" />
     <ClCompile Include="剑2-和为S的两个数字.cpp" />
     <ClCompile Include="剑2-和为S的连续正数序列.cpp" />
+    <ClCompile Include="剑2-字符流中第一个不重复的字符.cpp" />
+    <ClCompile Include="剑2-孩子们的游戏.cpp" />
     <ClCompile Include="剑2-对称的二叉树.cpp" />
     <ClCompile Include="剑2-左旋转字符串.cpp" />
     <ClCompile Include="剑2-平衡二叉树.cpp" />
@@ -429,13 +433,16 @@
     <ClCompile Include="剑2-整数中1出现的次数.cpp" />
     <ClCompile Include="剑2-斐波那契数列.cpp" />
     <ClCompile Include="剑2-旋转数组的最小数字.cpp" />
+    <ClCompile Include="剑2-替换空格.cpp" />
     <ClCompile Include="剑2-最小的k个数.cpp" />
     <ClCompile Include="剑2-构建乘积数组.cpp" />
+    <ClCompile Include="剑2-正则表达式匹配.cpp" />
     <ClCompile Include="剑2-滑动窗口的最大值.cpp" />
     <ClCompile Include="剑2-用两个栈实现队列.cpp" />
     <ClCompile Include="剑2-矩形覆盖.cpp" />
     <ClCompile Include="剑2-第一个只出现一次的字符.cpp" />
     <ClCompile Include="剑2-翻转单词顺序序列.cpp" />
+    <ClCompile Include="剑2-表示数值的字符串.cpp" />
     <ClCompile Include="剑2-跳台阶.cpp" />
     <ClCompile Include="剑2-连续子数组的最大和.cpp" />
     <ClCompile Include="剑2-重建二叉树.cpp" />
