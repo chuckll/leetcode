@@ -144,6 +144,7 @@
     <ClCompile Include="260-SingleNumberIII.cpp" />
     <ClCompile Include="268-MissingNumber.cpp" />
     <ClCompile Include="278-FirstBadVersion.cpp" />
+    <ClCompile Include="279--PerfectSquares.cpp" />
     <ClCompile Include="279-PerfectSquares.cpp" />
     <ClCompile Include="283-MoveZeroes.cpp" />
     <ClCompile Include="284-PeekingIterator.cpp" />
@@ -159,6 +160,7 @@
     <ClCompile Include="337-HouseRobberIII.cpp" />
     <ClCompile Include="338-CountingBits.cpp" />
     <ClCompile Include="341-FlattenNestedListIterator.cpp" />
+    <ClCompile Include="343--IntegerBreak.cpp" />
     <ClCompile Include="343-IntegerBreak.cpp" />
     <ClCompile Include="344-ReverseString.cpp" />
     <ClCompile Include="347-TopKFrequentElements.cpp" />
@@ -172,6 +174,7 @@
     <ClCompile Include="404-SumofLeftLeaves.cpp" />
     <ClCompile Include="406--QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="406-QueueReconstructionbyHeight.cpp" />
+    <ClCompile Include="413--Arithmetic Slices.cpp" />
     <ClCompile Include="413-ArithmeticSlices.cpp" />
     <ClCompile Include="417-PacificAtlanticWaterFlow.cpp" />
     <ClCompile Include="419-BattleshipsinaBoard.cpp" />
@@ -216,6 +219,7 @@
     <ClCompile Include="62-UniquePaths.cpp" />
     <ClCompile Include="633-SumofSquareNumbers.cpp" />
     <ClCompile Include="637-AverageofLevelsinBinaryTree.cpp" />
+    <ClCompile Include="64--MinimumPathSum.cpp" />
     <ClCompile Include="64--最小路径和.cpp" />
     <ClCompile Include="64-MinimumPathSum.cpp" />
     <ClCompile Include="653-TwoSumIV-InputisaBST.cpp" />
@@ -414,6 +418,7 @@
     <ClCompile Include="剑2-变态跳台阶.cpp" />
     <ClCompile Include="剑2-和为S的两个数字.cpp" />
     <ClCompile Include="剑2-和为S的连续正数序列.cpp" />
+    <ClCompile Include="剑2-复杂链表的复制.cpp" />
     <ClCompile Include="剑2-字符流中第一个不重复的字符.cpp" />
     <ClCompile Include="剑2-孩子们的游戏.cpp" />
     <ClCompile Include="剑2-对称的二叉树.cpp" />

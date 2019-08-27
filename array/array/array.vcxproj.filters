@@ -1143,6 +1143,21 @@
     <ClCompile Include="剑2-机器人的运动范围.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="剑2-复杂链表的复制.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="64--MinimumPathSum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="413--Arithmetic Slices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="343--IntegerBreak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="279--PerfectSquares.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
